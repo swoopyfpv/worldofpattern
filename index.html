@@ -98,8 +98,7 @@ select{background:var(--chip);border:1px solid var(--line);border-radius:8px;pad
 .mbar{display:none;gap:6px;flex:none}
 @media (max-width:640px){
   .hint{display:none}.caption .meta{font-size:11px}
-  .bar{flex-wrap:nowrap;gap:8px;padding-block:8px}
-  .bar.open{flex-wrap:wrap}
+  .bar{gap:8px;padding-block:8px}
   .logo{height:24px}
   .sel{flex:1 1 0;min-width:0;gap:0}
   .sel .lbl{display:none}
@@ -107,8 +106,12 @@ select{background:var(--chip);border:1px solid var(--line);border-radius:8px;pad
   .spacer{display:none}
   .mbar{display:flex}
   .mbar .btn{padding:6px 10px}
-  .controls{display:none}
-  .bar.open .controls{display:flex;flex-basis:100%;padding-top:4px}
+  .bar{flex-wrap:wrap}
+  .controls{display:flex;flex-basis:100%;flex-wrap:wrap;gap:6px}
+  .controls>*{display:none!important}
+  .controls>.scale{display:flex!important;flex:1 1 100%;order:-1}
+  .scale input{flex:1;width:auto;min-width:0}
+  .bar.open .controls>*:not(#back):not(#shuffle):not(#searchBtn){display:inline-flex!important}
   .controls #back,.controls #shuffle,.controls #searchBtn{display:none}
 }
 @media (prefers-reduced-motion:reduce){.layer,.seams{transition:none}}
@@ -171,7 +174,7 @@ select{background:var(--chip);border:1px solid var(--line);border-radius:8px;pad
     </div>
   </div>
 </main>
-<div class="hint gut"><kbd>Leertaste</kbd> shuffle · <kbd>B</kbd> zurück · <kbd>←</kbd><kbd>→</kbd> blättern · <kbd>+</kbd><kbd>−</kbd> Kachelgröße · Ziehen verschiebt · Doppelklick zentriert · <kbd>G</kbd> seam · <kbd>E</kbd> exportieren · <kbd>S</kbd> suchen · <span id="source">Beispielsatz</span></div>
+<div class="hint gut"><kbd>Leertaste</kbd> shuffle · <kbd>B</kbd> zurück · <kbd>←</kbd><kbd>→</kbd> blättern · <kbd>+</kbd><kbd>−</kbd> Kachelgröße · Ziehen verschiebt · Mausrad zoomt · Doppelklick zentriert · <kbd>G</kbd> seam · <kbd>E</kbd> exportieren · <kbd>S</kbd> suchen · <span id="source">Beispielsatz</span></div>
 
 <div class="overlay" id="exportDlg" hidden>
   <div class="dialog" role="dialog" aria-modal="true" aria-labelledby="exTitle">
@@ -285,25 +288,41 @@ function applyPos(){
 }
 const defaultSize=()=>matchMedia("(orientation: portrait) and (max-width: 700px)").matches?200:400;
 
-/* drag the pattern: mouse, pen or one finger; double-click / double-tap recentres */
+/* move: drag with mouse, pen or one finger · zoom: pinch with two fingers or the mouse wheel
+   double-click / double-tap recentres */
 (()=>{
-  const w=$("win"); let drag=null, lastTap=0;
+  const w=$("win"), pts=new Map(); let drag=null, pinch=null, lastTap=0;
+  const paint=()=>{const v=tileSize, pos=`calc(50% - ${v/2}px + ${off.x}px) calc(50% - ${v/2}px + ${off.y}px)`;
+    document.querySelectorAll(".layer").forEach(l=>l.style.backgroundPosition=pos); $("seams").style.backgroundPosition=pos};
+  const dist=()=>{const [p,q]=[...pts.values()];return Math.hypot(p.x-q.x,p.y-q.y)||1};
   w.addEventListener("pointerdown",e=>{
     if(e.target.closest(".note")||e.button>0) return;
+    pts.set(e.pointerId,{x:e.clientX,y:e.clientY}); w.setPointerCapture(e.pointerId); w.classList.add("dragging");
+    if(pts.size===2){ drag=null; pinch={d:dist(),v:tileSize}; return }
     drag={x:e.clientX,y:e.clientY,ox:off.x,oy:off.y,id:e.pointerId};
-    w.setPointerCapture(e.pointerId); w.classList.add("dragging");
     const now=Date.now(); if(e.pointerType!=="mouse"&&now-lastTap<300){off.x=off.y=0;applyPos()} lastTap=now;
   });
   w.addEventListener("pointermove",e=>{
+    if(!pts.has(e.pointerId)) return;
+    pts.set(e.pointerId,{x:e.clientX,y:e.clientY});
+    if(pinch&&pts.size===2){ setSize(Math.round(pinch.v*dist()/pinch.d)); return }
     if(!drag||e.pointerId!==drag.id) return;
     off.x=drag.ox+(e.clientX-drag.x); off.y=drag.oy+(e.clientY-drag.y);
-    // no modulo while dragging, so the pattern doesn't jump under the pointer
-    const v=tileSize, pos=`calc(50% - ${v/2}px + ${off.x}px) calc(50% - ${v/2}px + ${off.y}px)`;
-    document.querySelectorAll(".layer").forEach(l=>l.style.backgroundPosition=pos); $("seams").style.backgroundPosition=pos;
+    paint();                                   // no wrap-around while dragging, so nothing jumps
   });
-  const end=e=>{ if(!drag||e.pointerId!==drag.id) return; drag=null; w.classList.remove("dragging"); applyPos() };
+  const end=e=>{
+    if(!pts.delete(e.pointerId)) return;
+    if(pts.size<2) pinch=null;
+    if(pts.size===1){ const [id,p]=[...pts.entries()][0]; drag={x:p.x,y:p.y,ox:off.x,oy:off.y,id}; return }  // keep moving with the finger left
+    drag=null; w.classList.remove("dragging"); applyPos();
+  };
   w.addEventListener("pointerup",end); w.addEventListener("pointercancel",end);
   w.addEventListener("dblclick",e=>{ if(e.target.closest(".note")) return; off.x=off.y=0; applyPos() });
+  w.addEventListener("wheel",e=>{
+    if(e.target.closest(".note")) return;
+    e.preventDefault();
+    setSize(Math.round(tileSize*Math.exp(-e.deltaY*(e.ctrlKey?0.01:0.0015))));   // ctrlKey = trackpad pinch
+  },{passive:false});
 })();
 
 /* ---------- export ---------- */
