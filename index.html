@@ -132,7 +132,7 @@ select{background:var(--chip);border:1px solid var(--line);border-radius:8px;pad
       </div>
       <div class="note search" id="searchBox" role="dialog" aria-labelledby="searchTitle" hidden>
         <h2 id="searchTitle">Suche</h2>
-        <input type="search" id="searchInput" placeholder="Titel oder Kategorie, z. B. pudel, neon, kaktus" autocomplete="off" spellcheck="false">
+        <input type="search" id="searchInput" placeholder="z. B. katze, leuchtend, kaktus, pudel" autocomplete="off" spellcheck="false">
         <div class="search-meta" id="searchMeta"></div>
         <ul class="results" id="searchList"></ul>
         <div class="note-row"><button class="btn" id="searchClose">schließen</button></div>
@@ -302,7 +302,7 @@ function closeSearch(){ $("searchBox").hidden=true }
 function renderSearch(){
   const q=$("searchInput").value.trim().toLowerCase();
   const words=q.split(/\s+/).filter(Boolean);
-  hits=!words.length?[]:tiles.filter(t=>{const hay=(t.title+" "+label(t.cat)+" "+t.cat).toLowerCase();return words.every(w=>hay.includes(w))});
+  hits=!words.length?[]:tiles.filter(t=>{const hay=(t.title+" "+(t.de||"")+" "+label(t.cat)+" "+t.cat).toLowerCase();return words.every(w=>hay.includes(w))});
   active=0;
   const list=$("searchList"); list.innerHTML="";
   hits.slice(0,150).forEach((t,i)=>{
@@ -360,7 +360,7 @@ start();
 fetch(MANIFEST).then(r=>r.ok?r.json():Promise.reject()).then(m=>{
   const all=m.tiles||[];
   /* leave out tiles that clearly don't repeat (seam score over 4) and near-duplicates */
-  const list=all.filter(t=>!(t.seam>4)&&!t.duplicate_of).map(t=>({id:t.id,title:t.title,cat:t.cat,src:t.src,pack:t.pack}));
+  const list=all.filter(t=>!(t.seam>4)&&!t.duplicate_of).map(t=>({id:t.id,title:t.title,cat:t.cat,src:t.src,pack:t.pack,de:t.de||""}));
   if(!list.length) return;
   tiles=list; history=[]; current=null; cat="all";
   $("source").textContent=`${tiles.length} Kacheln`;

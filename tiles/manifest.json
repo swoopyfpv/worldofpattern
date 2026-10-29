@@ -13,7 +13,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "45d4cccc8e59292b",
-   "seam": 1.33
+   "seam": 1.33,
+   "de": "leuchtend vogel vögel"
   },
   {
    "id": "birds-0002",
@@ -26,7 +27,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "991a5a3b33333239",
-   "seam": 0.99
+   "seam": 0.99,
+   "de": "leuchtend vogel vögel"
   },
   {
    "id": "birds-0003",
@@ -39,7 +41,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "6c70f4f3e3e9f8f8",
-   "seam": 2.36
+   "seam": 2.36,
+   "de": "leuchtend vogel vögel"
   },
   {
    "id": "birds-0004",
@@ -52,7 +55,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "797496071f2d3edb",
-   "seam": 0.68
+   "seam": 0.68,
+   "de": "leuchtend vogel vögel"
   },
   {
    "id": "birds-0005",
@@ -65,7 +69,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "4fa93cac9292864b",
-   "seam": 0.76
+   "seam": 0.76,
+   "de": "leuchtend vogel vögel"
   },
   {
    "id": "birds-0006",
@@ -78,7 +83,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "f2cc4d6123a799b4",
-   "seam": 0.65
+   "seam": 0.65,
+   "de": "leuchtend vogel vögel"
   },
   {
    "id": "birds-0007",
@@ -91,7 +97,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "6e98e4cf9e9787e6",
-   "seam": 0.71
+   "seam": 0.71,
+   "de": "leuchtend vogel vögel"
   },
   {
    "id": "birds-0008",
@@ -104,7 +111,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "30391c9e1f1f1a7a",
-   "seam": 0.37
+   "seam": 0.37,
+   "de": "leuchtend vogel vögel"
   },
   {
    "id": "birds-0009",
@@ -117,7 +125,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "7232b6198c079990",
-   "seam": 1.12
+   "seam": 1.12,
+   "de": "leuchtend vogel vögel"
   },
   {
    "id": "birds-0010",
@@ -130,7 +139,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "7166268e4381c8c0",
-   "seam": 1.28
+   "seam": 1.28,
+   "de": "leuchtend vogel vögel"
   },
   {
    "id": "birds-0011",
@@ -143,7 +153,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "89c969315bcbb59d",
-   "seam": 1.72
+   "seam": 1.72,
+   "de": "vogel vögel"
   },
   {
    "id": "birds-0012",
@@ -156,7 +167,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "2bab1b2f65e3e261",
-   "seam": 1.06
+   "seam": 1.06,
+   "de": "vogel vögel"
   },
   {
    "id": "birds-0013",
@@ -169,7 +181,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "36cde13219293937",
-   "seam": 0.48
+   "seam": 0.48,
+   "de": "vogel vögel"
   },
   {
    "id": "birds-0014",
@@ -182,7 +195,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "acd35e8cb13172ee",
-   "seam": 0.83
+   "seam": 0.83,
+   "de": "vogel vögel"
   },
   {
    "id": "birds-0015",
@@ -195,7 +209,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "78ed4683991d7c3c",
-   "seam": 0.77
+   "seam": 0.77,
+   "de": "vogel vögel"
   },
   {
    "id": "birds-0016",
@@ -208,7 +223,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "86567c98c999212d",
-   "seam": 1.56
+   "seam": 1.56,
+   "de": "blau vogel vögel"
   },
   {
    "id": "birds-0017",
@@ -221,7 +237,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "33b59e683430b272",
-   "seam": 1.75
+   "seam": 1.75,
+   "de": "blau vogel vögel"
   },
   {
    "id": "birds-0018",
@@ -234,7 +251,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "9397a69299989cb9",
-   "seam": 0.92
+   "seam": 0.92,
+   "de": "blau vogel vögel"
   },
   {
    "id": "birds-0019",
@@ -247,7 +265,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "1b07cbcfe3626b1b",
-   "seam": 1.21
+   "seam": 1.21,
+   "de": "blau vogel vögel"
   },
   {
    "id": "birds-0020",
@@ -260,7 +279,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "1e9ab3315919297e",
-   "seam": 1.29
+   "seam": 1.29,
+   "de": "blau vogel vögel"
   },
   {
    "id": "birds-0021",
@@ -273,7 +293,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "c8f0d9c5896e6eca",
-   "seam": 0.7
+   "seam": 0.7,
+   "de": "blau vogel vögel"
   },
   {
    "id": "birds-0022",
@@ -286,7 +307,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "5c64ec7836161f5e",
-   "seam": 0.95
+   "seam": 0.95,
+   "de": "kanarienvogel vogel vögel"
   },
   {
    "id": "birds-0023",
@@ -299,7 +321,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "33324ac6c7e6c4c8",
-   "seam": 0.71
+   "seam": 0.71,
+   "de": "kanarienvogel vogel vögel"
   },
   {
    "id": "birds-0024",
@@ -312,7 +335,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "1e27c39998191b1f",
-   "seam": 1.84
+   "seam": 1.84,
+   "de": "kanarienvogel vogel vögel"
   },
   {
    "id": "birds-0025",
@@ -325,7 +349,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "6e1e3479cc8673fb",
-   "seam": 1.29
+   "seam": 1.29,
+   "de": "grün blau vogel vögel"
   },
   {
    "id": "birds-0026",
@@ -338,7 +363,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "ec6571336975368b",
-   "seam": 0.8
+   "seam": 0.8,
+   "de": "grün blau vogel vögel"
   },
   {
    "id": "birds-0027",
@@ -351,7 +377,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "62d9c959c5c86a33",
-   "seam": 1.31
+   "seam": 1.31,
+   "de": "grün blau vogel vögel"
   },
   {
    "id": "birds-0028",
@@ -364,7 +391,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "b19065c9dc2e6619",
-   "seam": 0.66
+   "seam": 0.66,
+   "de": "grün blau vogel vögel"
   },
   {
    "id": "birds-0029",
@@ -377,7 +405,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "956133395c1c0626",
-   "seam": 0.72
+   "seam": 0.72,
+   "de": "grün blau vogel vögel"
   },
   {
    "id": "birds-0030",
@@ -390,7 +419,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "4e58997978d95b1b",
-   "seam": 1.16
+   "seam": 1.16,
+   "de": "grün vogel vögel"
   },
   {
    "id": "birds-0031",
@@ -403,7 +433,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "6faee1731b972531",
-   "seam": 1.07
+   "seam": 1.07,
+   "de": "grün vogel vögel"
   },
   {
    "id": "birds-0032",
@@ -416,7 +447,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "961acace97f3e5a5",
-   "seam": 1.0
+   "seam": 1.0,
+   "de": "grün vogel vögel"
   },
   {
    "id": "birds-0033",
@@ -429,7 +461,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "f8c5c788b633b674",
-   "seam": 0.65
+   "seam": 0.65,
+   "de": "grün vogel vögel"
   },
   {
    "id": "birds-0034",
@@ -442,7 +475,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "661e0e86f27998d8",
-   "seam": 0.87
+   "seam": 0.87,
+   "de": "grün vogel vögel"
   },
   {
    "id": "birds-0035",
@@ -455,7 +489,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "6e6e4ecdc371e3e6",
-   "seam": 1.21
+   "seam": 1.21,
+   "de": "gelb kanarienvogel vogel vögel"
   },
   {
    "id": "birds-0036",
@@ -468,7 +503,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "3635490e933b8ed7",
-   "seam": 0.87
+   "seam": 0.87,
+   "de": "gelb kanarienvogel vogel vögel"
   },
   {
    "id": "birds-0037",
@@ -481,7 +517,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "da99395a1f38bc59",
-   "seam": 0.71
+   "seam": 0.71,
+   "de": "gelb kanarienvogel vogel vögel"
   },
   {
    "id": "birds-0038",
@@ -494,7 +531,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "5694ce4602b2d9ce",
-   "seam": 1.12
+   "seam": 1.12,
+   "de": "gelb kanarienvogel vogel vögel"
   },
   {
    "id": "birds-0039",
@@ -507,7 +545,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "3327edb770f85835",
-   "seam": 0.62
+   "seam": 0.62,
+   "de": "gelb kanarienvogel vogel vögel"
   },
   {
    "id": "cats-maincoone-0001",
@@ -520,7 +559,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "981b0f0f24d44858",
-   "seam": 0.79
+   "seam": 0.79,
+   "de": "maine coon katzen katze"
   },
   {
    "id": "cats-maincoone-0002",
@@ -533,7 +573,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "27a6e60c0f92c343",
-   "seam": 0.82
+   "seam": 0.82,
+   "de": "maine coon katzen katze"
   },
   {
    "id": "cats-maincoone-0003",
@@ -546,7 +587,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "dade989a8786ce1e",
-   "seam": 1.86
+   "seam": 1.86,
+   "de": "leuchtend maine coon katze katzen"
   },
   {
    "id": "cats-maincoone-0004",
@@ -559,7 +601,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "1f4d991b9787848e",
-   "seam": 0.9
+   "seam": 0.9,
+   "de": "leuchtend maine coon katze katzen"
   },
   {
    "id": "cats-maincoone-0005",
@@ -572,7 +615,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "99999c1e19cdcc80",
-   "seam": 0.5
+   "seam": 0.5,
+   "de": "leuchtend maine coon katze katzen"
   },
   {
    "id": "cats-maincoone-0006",
@@ -585,7 +629,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "c9c8d85866268685",
-   "seam": 1.5
+   "seam": 1.5,
+   "de": "leuchtend maine coon katzen katze"
   },
   {
    "id": "cats-0001",
@@ -598,7 +643,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "8a2aaa2aca2a2aaa",
-   "seam": 0.29
+   "seam": 0.29,
+   "de": "amerikanisch kurzhaar katze katzen"
   },
   {
    "id": "cats-0002",
@@ -611,7 +657,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "5133335139177319",
-   "seam": 0.31
+   "seam": 0.31,
+   "de": "amerikanisch kurzhaar katze katzen"
   },
   {
    "id": "cats-0003",
@@ -624,7 +671,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "adb990606a5b6fcc",
-   "seam": 0.76
+   "seam": 0.76,
+   "de": "bengal katze katzen"
   },
   {
    "id": "cats-0004",
@@ -637,7 +685,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "5e726c5f3171cc4c",
-   "seam": 1.09
+   "seam": 1.09,
+   "de": "bengal katze katzen"
   },
   {
    "id": "cats-0005",
@@ -650,7 +699,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "63d3da3d3b68c473",
-   "seam": 0.42
+   "seam": 0.42,
+   "de": "britisch kurzhaar katze katzen"
   },
   {
    "id": "cats-0006",
@@ -663,7 +713,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "6734646569196967",
-   "seam": 0.89
+   "seam": 0.89,
+   "de": "britisch kurzhaar katze katzen"
   },
   {
    "id": "cats-0007",
@@ -676,7 +727,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "d9dbd9d312dedbd9",
-   "seam": 1.03
+   "seam": 1.03,
+   "de": "britisch kurzhaar katze katzen"
   },
   {
    "id": "cats-0009",
@@ -689,7 +741,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "dac6d8d7a36c4d9d",
-   "seam": 1.79
+   "seam": 1.79,
+   "de": "exotisch kurzhaar katze katzen"
   },
   {
    "id": "cats-0010",
@@ -702,7 +755,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "9fc6e8ce936343bf",
-   "seam": 1.16
+   "seam": 1.16,
+   "de": "exotisch kurzhaar katze katzen"
   },
   {
    "id": "cats-0011",
@@ -715,7 +769,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "3536262666776d2d",
-   "seam": 0.57
+   "seam": 0.57,
+   "de": "maine coon katze katzen"
   },
   {
    "id": "cats-0012",
@@ -728,7 +783,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "84b4b4e49c9ed7c6",
-   "seam": 0.91
+   "seam": 0.91,
+   "de": "maine coon katze katzen"
   },
   {
    "id": "cats-0013",
@@ -741,7 +797,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "c261917b268e82a4",
-   "seam": 1.21
+   "seam": 1.21,
+   "de": "perser katze katzen"
   },
   {
    "id": "cats-0014",
@@ -754,7 +811,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "58ec1c0e2b31cc4c",
-   "seam": 0.93
+   "seam": 0.93,
+   "de": "perser katze katzen"
   },
   {
    "id": "cats-0015",
@@ -767,7 +825,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "e0f0332b164b9271",
-   "seam": 1.1
+   "seam": 1.1,
+   "de": "perser katze katzen"
   },
   {
    "id": "cats-0016",
@@ -780,7 +839,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "c532e9e91dc6f0c8",
-   "seam": 0.37
+   "seam": 0.37,
+   "de": "ragdoll katze katzen"
   },
   {
    "id": "cats-0017",
@@ -793,7 +853,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "1a4cc35b641db0d8",
-   "seam": 0.8
+   "seam": 0.8,
+   "de": "ragdoll katze katzen"
   },
   {
    "id": "cats-0018",
@@ -806,7 +867,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "cc8caaccaaaaccaa",
-   "seam": 2.29
+   "seam": 2.29,
+   "de": "schottisch fold faltohr katze katzen"
   },
   {
    "id": "cats-0019",
@@ -819,7 +881,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "4ec96b3362666233",
-   "seam": 0.77
+   "seam": 0.77,
+   "de": "schottisch fold faltohr katze katzen"
   },
   {
    "id": "cats-0020",
@@ -832,7 +895,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "a63672e7a666aa92",
-   "seam": 0.77
+   "seam": 0.77,
+   "de": "siam katze katzen"
   },
   {
    "id": "cats-0021",
@@ -845,7 +909,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "c9595bb6d3595b36",
-   "seam": 3.01
+   "seam": 3.01,
+   "de": "siam katze katzen"
   },
   {
    "id": "cats-0022",
@@ -858,7 +923,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "31cacaaa748e2b2b",
-   "seam": 0.73
+   "seam": 0.73,
+   "de": "sphynx nacktkatze katze katzen"
   },
   {
    "id": "cats-0023",
@@ -871,7 +937,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "62627333333767a7",
-   "seam": 0.85
+   "seam": 0.85,
+   "de": "sphynx nacktkatze katze katzen"
   },
   {
    "id": "cats-0024",
@@ -884,7 +951,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "3c396438387c3a3e",
-   "seam": 1.0
+   "seam": 1.0,
+   "de": "abessinier katze katzen"
   },
   {
    "id": "cats-0025",
@@ -897,7 +965,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "c56587464662c391",
-   "seam": 1.16
+   "seam": 1.16,
+   "de": "abessinier katze katzen"
   },
   {
    "id": "cats-0026",
@@ -910,7 +979,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "393161e99adafb79",
-   "seam": 0.83
+   "seam": 0.83,
+   "de": "abessinier katze katzen"
   },
   {
    "id": "cats-0027",
@@ -923,7 +993,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "5c7e68607058d8d8",
-   "seam": 0.98
+   "seam": 0.98,
+   "de": "abessinier katze katzen"
   },
   {
    "id": "cats-0028",
@@ -936,7 +1007,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "78780c0626238973",
-   "seam": 0.96
+   "seam": 0.96,
+   "de": "bengal katze katzen"
   },
   {
    "id": "cats-0029",
@@ -949,7 +1021,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "c35a5b230303cbc0",
-   "seam": 1.59
+   "seam": 1.59,
+   "de": "bengal katze katzen"
   },
   {
    "id": "cats-0030",
@@ -962,7 +1035,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "1f9d1a3d39b49696",
-   "seam": 6.53
+   "seam": 6.53,
+   "de": "britisch kurzhaar katze katzen"
   },
   {
    "id": "cats-0031",
@@ -975,7 +1049,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "0319123273f32919",
-   "seam": 10.94
+   "seam": 10.94,
+   "de": "britisch kurzhaar katze katzen"
   },
   {
    "id": "cats-0032",
@@ -988,7 +1063,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "235b313730585931",
-   "seam": 12.59
+   "seam": 12.59,
+   "de": "britisch kurzhaar katze katzen"
   },
   {
    "id": "cats-0033",
@@ -1001,7 +1077,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "9999a461c0d89139",
-   "seam": 1.35
+   "seam": 1.35,
+   "de": "britisch kurzhaar katze katzen"
   },
   {
    "id": "cats-0034",
@@ -1014,7 +1091,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "169603a952766632",
-   "seam": 1.31
+   "seam": 1.31,
+   "de": "britisch kurzhaar katze katzen"
   },
   {
    "id": "cats-0035",
@@ -1027,7 +1105,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "1f2d2c1e3e9c0e0f",
-   "seam": 0.97
+   "seam": 0.97,
+   "de": "britisch kurzhaar katze katzen"
   },
   {
    "id": "cats-0036",
@@ -1040,7 +1119,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "890934b2b1b0332c",
-   "seam": 0.83
+   "seam": 0.83,
+   "de": "britisch kurzhaar katze katzen"
   },
   {
    "id": "cats-0037",
@@ -1053,7 +1133,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "89896766acac9c9c",
-   "seam": 0.54
+   "seam": 0.54,
+   "de": "britisch kurzhaar katze katzen"
   },
   {
    "id": "cats-0038",
@@ -1066,7 +1147,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "b4a68e171389e1b1",
-   "seam": 0.79
+   "seam": 0.79,
+   "de": "britisch kurzhaar katze katzen"
   },
   {
    "id": "cats-0039",
@@ -1079,7 +1161,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "e0f0f4f0f0d1c4e0",
-   "seam": 1.3
+   "seam": 1.3,
+   "de": "maine coon katze katzen"
   },
   {
    "id": "cats-0040",
@@ -1092,7 +1175,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "f4e4f261f8f8f0bc",
-   "seam": 0.62
+   "seam": 0.62,
+   "de": "perser katze katzen"
   },
   {
    "id": "cats-0041",
@@ -1105,7 +1189,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "379a3455e7f1990d",
-   "seam": 0.57
+   "seam": 0.57,
+   "de": "russisch blau katze katzen"
   },
   {
    "id": "cats-0042",
@@ -1118,7 +1203,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "8184ea6bcbc0f8b8",
-   "seam": 0.92
+   "seam": 0.92,
+   "de": "russisch blau katze katzen"
   },
   {
    "id": "cats-0043",
@@ -1131,7 +1217,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "8e1ed8e37270706c",
-   "seam": 1.2
+   "seam": 1.2,
+   "de": "russisch blau katze katzen"
   },
   {
    "id": "cats-0044",
@@ -1144,7 +1231,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "4dce0e2fccc4e46d",
-   "seam": 0.67
+   "seam": 0.67,
+   "de": "russisch blau katze katzen"
   },
   {
    "id": "cats-0045",
@@ -1157,7 +1245,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "0d43d3e1e8e26f8d",
-   "seam": 1.09
+   "seam": 1.09,
+   "de": "russisch blau katze katzen"
   },
   {
    "id": "cats-0046",
@@ -1170,7 +1259,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "aaab33c5aa2b33c5",
-   "seam": 0.7
+   "seam": 0.7,
+   "de": "schottisch fold faltohr katze katzen"
   },
   {
    "id": "cats-0047",
@@ -1183,7 +1273,8 @@
    "w": 2048,
    "h": 2048,
    "hash": "9556525a9556525a",
-   "seam": 2.41
+   "seam": 2.41,
+   "de": "schottisch fold faltohr katze katzen"
   },
   {
    "id": "cats-0048",
@@ -1196,7 +1287,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "9ad2d9c9cacd199f",
-   "seam": 0.69
+   "seam": 0.69,
+   "de": "schottisch fold faltohr katze katzen"
   },
   {
    "id": "cats-0049",
@@ -1209,7 +1301,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "d931999d33633399",
-   "seam": 0.5
+   "seam": 0.5,
+   "de": "schottisch fold faltohr katze katzen"
   },
   {
    "id": "cats-0050",
@@ -1222,7 +1315,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "89db4d6667c9c1c5",
-   "seam": 0.21
+   "seam": 0.21,
+   "de": "siam katze katzen"
   },
   {
    "id": "cats-0051",
@@ -1235,7 +1329,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "c8aa2308cc8c3233",
-   "seam": 0.81
+   "seam": 0.81,
+   "de": "sphynx nacktkatze katze katzen"
   },
   {
    "id": "cats-0052",
@@ -1248,7 +1343,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "ae6949109449a9a6",
-   "seam": 1.1
+   "seam": 1.1,
+   "de": "sphynx nacktkatze katze katzen"
   },
   {
    "id": "cats-0053",
@@ -1261,7 +1357,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "49a51b3121b0ecd9",
-   "seam": 0.89
+   "seam": 0.89,
+   "de": "groß katze katzen"
   },
   {
    "id": "cats-0054",
@@ -1274,7 +1371,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "b42464c0f1f8307a",
-   "seam": 0.24
+   "seam": 0.24,
+   "de": "groß katze katzen"
   },
   {
    "id": "cats-0055",
@@ -1287,7 +1385,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "b819591c8cf4e8f9",
-   "seam": 0.73
+   "seam": 0.73,
+   "de": "groß katze katzen"
   },
   {
    "id": "cats-0056",
@@ -1300,7 +1399,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "8fc6c6a1584c2c17",
-   "seam": 1.21
+   "seam": 1.21,
+   "de": "blau katze katzen"
   },
   {
    "id": "cats-0057",
@@ -1313,7 +1413,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "a698dcf266642767",
-   "seam": 0.65
+   "seam": 0.65,
+   "de": "blau katze katzen"
   },
   {
    "id": "cats-0058",
@@ -1326,7 +1427,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "8b0e66ce6525ac18",
-   "seam": 1.3
+   "seam": 1.3,
+   "de": "blau katze katzen"
   },
   {
    "id": "cats-0059",
@@ -1339,7 +1441,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "9c981931f8f87312",
-   "seam": 0.6
+   "seam": 0.6,
+   "de": "blau katze katzen"
   },
   {
    "id": "cats-0060",
@@ -1352,7 +1455,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "03f3cb763c9c6e4e",
-   "seam": 0.8
+   "seam": 0.8,
+   "de": "blau katze katzen"
   },
   {
    "id": "cats-0061",
@@ -1365,7 +1469,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "f27b7b370f1e1373",
-   "seam": 0.99
+   "seam": 0.99,
+   "de": "blau katze katzen"
   },
   {
    "id": "cats-0062",
@@ -1378,7 +1483,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "9362e4c8cc25a60f",
-   "seam": 0.69
+   "seam": 0.69,
+   "de": "braun katze katzen"
   },
   {
    "id": "cats-0063",
@@ -1391,7 +1497,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "9291b3d3f9f8b353",
-   "seam": 0.64
+   "seam": 0.64,
+   "de": "braun katze katzen"
   },
   {
    "id": "cats-0064",
@@ -1404,7 +1511,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "27238d199eb2f65b",
-   "seam": 0.77
+   "seam": 0.77,
+   "de": "braun katze katzen"
   },
   {
    "id": "cats-0065",
@@ -1417,7 +1525,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "e826a7398933326c",
-   "seam": 0.6
+   "seam": 0.6,
+   "de": "neugierig schauend katze katzen"
   },
   {
    "id": "cats-0066",
@@ -1430,7 +1539,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "dcc896ade3856852",
-   "seam": 1.31
+   "seam": 1.31,
+   "de": "neugierig schauend katze katzen"
   },
   {
    "id": "cats-0067",
@@ -1443,7 +1553,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "2355969673ddb69c",
-   "seam": 0.86
+   "seam": 0.86,
+   "de": "ausgeschnitten katze gesicht katzen"
   },
   {
    "id": "cats-0068",
@@ -1456,7 +1567,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "1763e4ad07e6c6ee",
-   "seam": 0.44
+   "seam": 0.44,
+   "de": "ausgeschnitten katze gesicht katzen"
   },
   {
    "id": "cats-0069",
@@ -1469,7 +1581,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "62eb29a83097870f",
-   "seam": 2.4
+   "seam": 2.4,
+   "de": "ausgeschnitten katze gesicht katzen"
   },
   {
    "id": "cats-0070",
@@ -1482,7 +1595,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "59bef5b1b4d96b2c",
-   "seam": 1.99
+   "seam": 1.99,
+   "de": "ausgeschnitten katze gesicht katzen"
   },
   {
    "id": "cats-0071",
@@ -1495,7 +1609,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "6a2a999999c6aaaa",
-   "seam": 0.78
+   "seam": 0.78,
+   "de": "ausgeschnitten katze gesicht katzen"
   },
   {
    "id": "cats-0072",
@@ -1508,7 +1623,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "a42661c934343327",
-   "seam": 1.12
+   "seam": 1.12,
+   "de": "ausgeschnitten katze gesicht katzen"
   },
   {
    "id": "cats-0073",
@@ -1521,7 +1637,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "aa14981c6666a044",
-   "seam": 1.29
+   "seam": 1.29,
+   "de": "ausgeschnitten katze gesicht katzen"
   },
   {
    "id": "cats-0074",
@@ -1534,7 +1651,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "4a22d35b4a8d6363",
-   "seam": 1.41
+   "seam": 1.41,
+   "de": "ausgeschnitten katze gesicht katzen"
   },
   {
    "id": "cats-0075",
@@ -1547,7 +1665,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "33d3d933ccce33cc",
-   "seam": 0.65
+   "seam": 0.65,
+   "de": "ausgeschnitten katze gesicht katzen"
   },
   {
    "id": "cats-0076",
@@ -1560,7 +1679,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "172626b9998d59db",
-   "seam": 0.44
+   "seam": 0.44,
+   "de": "lustig schauend katze katzen"
   },
   {
    "id": "cats-0077",
@@ -1573,7 +1693,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "614d5b328dac734d",
-   "seam": 1.52
+   "seam": 1.52,
+   "de": "lustig schauend katze katzen"
   },
   {
    "id": "cats-0078",
@@ -1586,7 +1707,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "c6ced4537beec686",
-   "seam": 0.46
+   "seam": 0.46,
+   "de": "lustig schauend katze katzen"
   },
   {
    "id": "cats-0079",
@@ -1599,7 +1721,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "e56519198c8725a1",
-   "seam": 1.35
+   "seam": 1.35,
+   "de": "leuchtend katze katzen"
   },
   {
    "id": "cats-0080",
@@ -1612,7 +1735,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "346cecc8cac3d3b2",
-   "seam": 0.72
+   "seam": 0.72,
+   "de": "leuchtend katze katzen"
   },
   {
    "id": "cats-0081",
@@ -1625,7 +1749,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "f67678705c6464f4",
-   "seam": 0.52
+   "seam": 0.52,
+   "de": "leuchtend katze katzen"
   },
   {
    "id": "cats-0082",
@@ -1638,7 +1763,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "e40d296e791c0de9",
-   "seam": 0.66
+   "seam": 0.66,
+   "de": "leuchtend katze katzen"
   },
   {
    "id": "cats-0083",
@@ -1651,7 +1777,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "ccc4f40c584ccd85",
-   "seam": 0.79
+   "seam": 0.79,
+   "de": "leuchtend katze katzen"
   },
   {
    "id": "cats-0084",
@@ -1664,7 +1791,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "d27c6666ac6d2523",
-   "seam": 0.97
+   "seam": 0.97,
+   "de": "leuchtend katze katzen"
   },
   {
    "id": "cats-0085",
@@ -1677,7 +1805,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "b037579391314666",
-   "seam": 1.13
+   "seam": 1.13,
+   "de": "leuchtend katze katzen"
   },
   {
    "id": "cats-0086",
@@ -1690,7 +1819,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "5345aded6565656c",
-   "seam": 0.33
+   "seam": 0.33,
+   "de": "leuchtend katze katzen"
   },
   {
    "id": "cats-0087",
@@ -1703,7 +1833,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "919d8ee4ccdc2c4b",
-   "seam": 0.88
+   "seam": 0.88,
+   "de": "leuchtend katze katzen"
   },
   {
    "id": "cats-0088",
@@ -1716,7 +1847,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "c6ce8f30e4cccc24",
-   "seam": 0.81
+   "seam": 0.81,
+   "de": "leuchtend katze katzen"
   },
   {
    "id": "cats-0089",
@@ -1729,7 +1861,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "e4e2d2929d9e9a98",
-   "seam": 0.55
+   "seam": 0.55,
+   "de": "leuchtend katze katzen"
   },
   {
    "id": "cats-0090",
@@ -1742,7 +1875,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "6e6e5e4c0c4fc6ce",
-   "seam": 0.73
+   "seam": 0.73,
+   "de": "leuchtend katze katzen"
   },
   {
    "id": "cats-0091",
@@ -1755,7 +1889,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "d1706c4c4c49c9c1",
-   "seam": 1.57
+   "seam": 1.57,
+   "de": "leuchtend katze katzen"
   },
   {
    "id": "cats-0092",
@@ -1768,7 +1903,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "f8f8789819193878",
-   "seam": 0.81
+   "seam": 0.81,
+   "de": "leuchtend katze katzen"
   },
   {
    "id": "cats-0093",
@@ -1781,7 +1917,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "f8704dcdc38382e1",
-   "seam": 1.6
+   "seam": 1.6,
+   "de": "leuchtend katze katzen"
   },
   {
    "id": "cats-0094",
@@ -1794,7 +1931,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "e2e01b1b1903b3e0",
-   "seam": 0.51
+   "seam": 0.51,
+   "de": "leuchtend katze katzen"
   },
   {
    "id": "cats-0095",
@@ -1807,7 +1945,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "e1e5da181a1233e1",
-   "seam": 0.4
+   "seam": 0.4,
+   "de": "leuchtend maine coon katze katzen"
   },
   {
    "id": "cats-0096",
@@ -1820,7 +1959,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "333b135ea18fc97b",
-   "seam": 0.63
+   "seam": 0.63,
+   "de": "leuchtend maine coon katze katzen"
   },
   {
    "id": "cats-0097",
@@ -1833,7 +1973,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "f4f26262e061d1e5",
-   "seam": 0.99
+   "seam": 0.99,
+   "de": "leuchtend maine coon katzen katze"
   },
   {
    "id": "cats-0098",
@@ -1846,7 +1987,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "01c1ba33339391c1",
-   "seam": 1.14
+   "seam": 1.14,
+   "de": "leuchtend maine coon katzen katze"
   },
   {
    "id": "cats-0099",
@@ -1859,7 +2001,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "1a5a1719196eca28",
-   "seam": 2.62
+   "seam": 2.62,
+   "de": "leuchtend maine coon katzen katze"
   },
   {
    "id": "cats-0100",
@@ -1872,7 +2015,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "1e6a2a1938b4763e",
-   "seam": 0.79
+   "seam": 0.79,
+   "de": "grau katze katzen"
   },
   {
    "id": "cats-0101",
@@ -1885,7 +2029,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "b3cbcee6e1f09819",
-   "seam": 1.09
+   "seam": 1.09,
+   "de": "grau katze katzen"
   },
   {
    "id": "cats-0102",
@@ -1898,7 +2043,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "0f13969c9c5c5e2e",
-   "seam": 1.01
+   "seam": 1.01,
+   "de": "grau katze katzen"
   },
   {
    "id": "cats-0103",
@@ -1911,7 +2057,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "8e9b8f8e9a939a4a",
-   "seam": 0.73
+   "seam": 0.73,
+   "de": "grau katze katzen"
   },
   {
    "id": "cats-0104",
@@ -1924,7 +2071,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "436979e9478d0d87",
-   "seam": 1.18
+   "seam": 1.18,
+   "de": "maine coon katze katzen"
   },
   {
    "id": "cats-0105",
@@ -1937,7 +2085,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "3e1c1c1969e8e3e0",
-   "seam": 1.63
+   "seam": 1.63,
+   "de": "maine coon katze katzen"
   },
   {
    "id": "cats-0106",
@@ -1950,7 +2099,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "6d663b2f7373f131",
-   "seam": 1.07
+   "seam": 1.07,
+   "de": "maine coon katze katzen"
   },
   {
    "id": "cats-0107",
@@ -1963,7 +2113,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "4bb3b149c8c25436",
-   "seam": 1.12
+   "seam": 1.12,
+   "de": "realistisch schauend katze katzen"
   },
   {
    "id": "cats-0108",
@@ -1976,7 +2127,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "abcbc9dbccc467a7",
-   "seam": 1.45
+   "seam": 1.45,
+   "de": "realistisch schauend katze katzen"
   },
   {
    "id": "cats-0109",
@@ -1989,7 +2141,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "31242d4dc8ce1133",
-   "seam": 1.55
+   "seam": 1.55,
+   "de": "realistisch schauend katze katzen"
   },
   {
    "id": "cats-0110",
@@ -2002,7 +2155,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "761c3a17371b9536",
-   "seam": 0.69
+   "seam": 0.69,
+   "de": "klein katze katzen"
   },
   {
    "id": "cats-0111",
@@ -2015,7 +2169,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "64b4e463cbb9e6e6",
-   "seam": 0.61
+   "seam": 0.61,
+   "de": "klein katze katzen"
   },
   {
    "id": "cats-0112",
@@ -2028,7 +2183,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "461bda9e1b0f4747",
-   "seam": 0.82
+   "seam": 0.82,
+   "de": "klein katze katzen"
   },
   {
    "id": "cats-0113",
@@ -2041,7 +2197,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "c7c66f4fc6c6d20f",
-   "seam": 0.94
+   "seam": 0.94,
+   "de": "klein katze katzen"
   },
   {
    "id": "cats-0114",
@@ -2054,7 +2211,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "5696566c682b3a52",
-   "seam": 1.0
+   "seam": 1.0,
+   "de": "tiger getigert katze katzen"
   },
   {
    "id": "cats-0115",
@@ -2067,7 +2225,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "0b1b414a0e1e8c9c",
-   "seam": 1.08
+   "seam": 1.08,
+   "de": "tiger getigert katze katzen"
   },
   {
    "id": "cats-0116",
@@ -2080,7 +2239,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "d4981b3366b85c4c",
-   "seam": 0.97
+   "seam": 0.97,
+   "de": "tiger getigert katze katzen"
   },
   {
    "id": "cats-0117",
@@ -2093,7 +2253,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "b2b296999b1ae66f",
-   "seam": 0.83
+   "seam": 0.83,
+   "de": "tiger getigert katze katzen"
   },
   {
    "id": "cats-0118",
@@ -2106,7 +2267,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "93d3654343661601",
-   "seam": 1.05
+   "seam": 1.05,
+   "de": "tiger getigert katze katzen"
   },
   {
    "id": "cats-0119",
@@ -2119,7 +2281,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "e2f6bc383e1c3cb0",
-   "seam": 0.76
+   "seam": 0.76,
+   "de": "weiß katze katzen"
   },
   {
    "id": "cats-0120",
@@ -2132,7 +2295,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "f46c725247c5ec60",
-   "seam": 0.64
+   "seam": 0.64,
+   "de": "weiß katze katzen"
   },
   {
    "id": "cats-0121",
@@ -2145,7 +2309,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "c0c04a86c4c8c1c0",
-   "seam": 0.57
+   "seam": 0.57,
+   "de": "weiß katze katzen"
   },
   {
    "id": "cats-0122",
@@ -2158,7 +2323,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "353c3e3f139b9999",
-   "seam": 1.07
+   "seam": 1.07,
+   "de": "weiß katze katzen"
   },
   {
    "id": "cats-0123",
@@ -2171,7 +2337,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "3119d3132667e3e2",
-   "seam": 0.49
+   "seam": 0.49,
+   "de": "weiß katze katzen"
   },
   {
    "id": "cats-0124",
@@ -2184,7 +2351,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "7ebe3e1f0f3e5e7e",
-   "seam": 1.16
+   "seam": 1.16,
+   "de": "weiß katze katzen"
   },
   {
    "id": "cats-0125",
@@ -2197,7 +2365,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "4771f42d199369e9",
-   "seam": 0.8
+   "seam": 0.8,
+   "de": "comic muster katze köpfe katzen"
   },
   {
    "id": "cats-0126",
@@ -2210,7 +2379,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "685911965c4c4c4a",
-   "seam": 0.93
+   "seam": 0.93,
+   "de": "comic muster katze köpfe katzen"
   },
   {
    "id": "cats-0127",
@@ -2223,7 +2393,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "98980dccac2d6666",
-   "seam": 0.93
+   "seam": 0.93,
+   "de": "süß niedlich comic katze köpfe katzen"
   },
   {
    "id": "cats-0128",
@@ -2236,7 +2407,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "8a4c6261651c44d8",
-   "seam": 0.87
+   "seam": 0.87,
+   "de": "süß niedlich glupschaugen kulleraugen auge anime katze katzen"
   },
   {
    "id": "cats-0129",
@@ -2249,7 +2421,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "53f9c95931bbdc4f",
-   "seam": 1.06
+   "seam": 1.06,
+   "de": "süß niedlich glupschaugen kulleraugen auge anime katze katzen"
   },
   {
    "id": "cats-0130",
@@ -2262,7 +2435,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "b3860e64a473599c",
-   "seam": 0.85
+   "seam": 0.85,
+   "de": "süß niedlich glupschaugen kulleraugen auge anime katze katzen"
   },
   {
    "id": "cats-0131",
@@ -2275,7 +2449,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "c87ee7d126260658",
-   "seam": 0.87
+   "seam": 0.87,
+   "de": "süß niedlich glupschaugen kulleraugen auge anime katze katzen"
   },
   {
    "id": "cats-0132",
@@ -2288,7 +2463,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "7c34ee9bd91b1364",
-   "seam": 1.36
+   "seam": 1.36,
+   "de": "süß niedlich glupschaugen kulleraugen auge anime katze katzen"
   },
   {
    "id": "cats-0133",
@@ -2301,7 +2477,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "b5726cf992dacc25",
-   "seam": 1.45
+   "seam": 1.45,
+   "de": "süß niedlich glupschaugen kulleraugen augen katze köpfe katzen"
   },
   {
    "id": "cats-0134",
@@ -2314,7 +2491,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "8d634a6cccb0b236",
-   "seam": 0.92
+   "seam": 0.92,
+   "de": "süß niedlich glupschaugen kulleraugen augen katze köpfe katzen"
   },
   {
    "id": "cats-0135",
@@ -2327,7 +2505,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "39310ccca46c4d89",
-   "seam": 0.71
+   "seam": 0.71,
+   "de": "fröhlich comic katze köpfe katzen"
   },
   {
    "id": "cats-0136",
@@ -2340,7 +2519,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "29c9e6b4d3f339ae",
-   "seam": 1.21
+   "seam": 1.21,
+   "de": "fröhlich lustig comic katze köpfe katzen"
   },
   {
    "id": "cats-0137",
@@ -2353,7 +2533,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "adc955c93a3c542b",
-   "seam": 1.22
+   "seam": 1.22,
+   "de": "sehr detailliert süß niedlich glupschaugen kulleraugen auge katzen katze"
   },
   {
    "id": "cats-0138",
@@ -2366,7 +2547,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "4666e7b92fe9b9b6",
-   "seam": 1.23
+   "seam": 1.23,
+   "de": "sehr detailliert süß niedlich glupschaugen kulleraugen auge katzen katze"
   },
   {
    "id": "dogs-bulldog-0001",
@@ -2379,7 +2561,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "3e0e5f5391d0727e",
-   "seam": 1.19
+   "seam": 1.19,
+   "de": "bulldogge blick direkt hunde hund"
   },
   {
    "id": "dogs-bulldog-0002",
@@ -2392,7 +2575,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "333368d8d2d8b173",
-   "seam": 1.51
+   "seam": 1.51,
+   "de": "bulldogge blick direkt hunde hund"
   },
   {
    "id": "dogs-bulldog-0003",
@@ -2405,7 +2589,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "a95aee532a8995eb",
-   "seam": 0.61
+   "seam": 0.61,
+   "de": "bulldogge springend sprung mitte luft hunde hund"
   },
   {
    "id": "dogs-bulldog-0004",
@@ -2418,7 +2603,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "b8c6a531d5ddf4e5",
-   "seam": 0.64
+   "seam": 0.64,
+   "de": "bulldogge springend sprung mitte luft hunde hund"
   },
   {
    "id": "dogs-bulldog-0005",
@@ -2431,7 +2617,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "b5a6a32d6d632459",
-   "seam": 0.93
+   "seam": 0.93,
+   "de": "bulldogge springend sprung mitte luft hunde hund"
   },
   {
    "id": "dogs-bulldog-0006",
@@ -2444,7 +2631,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "7321963333737635",
-   "seam": 1.61
+   "seam": 1.61,
+   "de": "bulldogge spielend hunde hund"
   },
   {
    "id": "dogs-bulldog-0007",
@@ -2457,7 +2645,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "d81969cdcc2b61d1",
-   "seam": 1.48
+   "seam": 1.48,
+   "de": "bulldogge spielend hunde hund"
   },
   {
    "id": "dogs-bulldog-0008",
@@ -2470,7 +2659,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "439a13d1c9e16969",
-   "seam": 0.65
+   "seam": 0.65,
+   "de": "bulldogge ruhend liegend hunde hund"
   },
   {
    "id": "dogs-bulldog-0009",
@@ -2483,7 +2673,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "b0a03212c3cb1140",
-   "seam": 0.9
+   "seam": 0.9,
+   "de": "bulldogge ruhend liegend hunde hund"
   },
   {
    "id": "dogs-bulldog-0010",
@@ -2496,7 +2687,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "1b2fcdc9e20c0c0e",
-   "seam": 0.89
+   "seam": 0.89,
+   "de": "bulldogge ruhend liegend hunde hund"
   },
   {
    "id": "dogs-bulldog-0011",
@@ -2509,7 +2701,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "787890b1cb9a1838",
-   "seam": 0.94
+   "seam": 0.94,
+   "de": "bulldogge ruhend liegend hunde hund"
   },
   {
    "id": "dogs-bulldog-0012",
@@ -2522,7 +2715,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "983da6c0662dd9d8",
-   "seam": 1.17
+   "seam": 1.17,
+   "de": "bulldogge rennend laufend zu kamera hunde hund"
   },
   {
    "id": "dogs-bulldog-0013",
@@ -2535,7 +2729,8 @@
    "w": 584,
    "h": 584,
    "hash": "1a62e21b966474c4",
-   "seam": 1.12
+   "seam": 1.12,
+   "de": "bulldogge rennend laufend zu kamera hunde hund"
   },
   {
    "id": "dogs-bulldog-0014",
@@ -2548,7 +2743,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "666b4bc3f1766666",
-   "seam": 1.52
+   "seam": 1.52,
+   "de": "nah nahaufnahme hunde hund bulldogge"
   },
   {
    "id": "dogs-bulldog-0015",
@@ -2561,7 +2757,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "333386eaf8717c79",
-   "seam": 0.94
+   "seam": 0.94,
+   "de": "nah nahaufnahme hunde hund bulldogge"
   },
   {
    "id": "dogs-bulldog-0016",
@@ -2574,7 +2771,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "361f0f071f2db1f2",
-   "seam": 1.46
+   "seam": 1.46,
+   "de": "vintage stil foto hunde hund bulldogge"
   },
   {
    "id": "dogs-bulldog-0017",
@@ -2587,7 +2785,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "28359c1c39f9f4e0",
-   "seam": 0.46
+   "seam": 0.46,
+   "de": "vintage stil foto hunde hund bulldogge"
   },
   {
    "id": "dogs-bulldog-0018",
@@ -2600,7 +2799,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "363e1c1e7d3cfc78",
-   "seam": 0.77
+   "seam": 0.77,
+   "de": "vintage stil foto hunde hund bulldogge"
   },
   {
    "id": "dogs-dachshund-0001",
@@ -2613,7 +2813,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "26331b0c131d0e0e",
-   "seam": 1.83
+   "seam": 1.83,
+   "de": "dackel hunde hund"
   },
   {
    "id": "dogs-dachshund-0002",
@@ -2626,7 +2827,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "3f93839383c1c146",
-   "seam": 0.45
+   "seam": 0.45,
+   "de": "dackel hunde hund"
   },
   {
    "id": "dogs-dachshund-0003",
@@ -2639,7 +2841,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "b4799ac261e5ca9a",
-   "seam": 1.09
+   "seam": 1.09,
+   "de": "dackel hunde hund"
   },
   {
    "id": "dogs-dachshund-0004",
@@ -2652,7 +2855,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "3c1236e3d3d17236",
-   "seam": 1.01
+   "seam": 1.01,
+   "de": "dackel hunde hund"
   },
   {
    "id": "dogs-dachshund-0005",
@@ -2665,7 +2869,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "c50f8781c3c1597b",
-   "seam": 1.89
+   "seam": 1.89,
+   "de": "dackel hunde hund"
   },
   {
    "id": "dogs-dachshund-0006",
@@ -2678,7 +2883,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "00200965a4a33376",
-   "seam": 0.58
+   "seam": 0.58,
+   "de": "dackel hunde hund"
   },
   {
    "id": "dogs-dachshund-0007",
@@ -2691,7 +2897,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "070617b289c9be96",
-   "seam": 0.94
+   "seam": 0.94,
+   "de": "dackel hunde hund"
   },
   {
    "id": "dogs-dachshund-0008",
@@ -2704,7 +2911,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "c3c7d632111a5cd7",
-   "seam": 0.81
+   "seam": 0.81,
+   "de": "dackel hunde hund"
   },
   {
    "id": "dogs-dachshund-0009",
@@ -2717,7 +2925,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "d1859970b0d85939",
-   "seam": 0.72
+   "seam": 0.72,
+   "de": "dackel hunde hund"
   },
   {
    "id": "dogs-dachshund-0010",
@@ -2730,7 +2939,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "8dac12256d27b31c",
-   "seam": 0.92
+   "seam": 0.92,
+   "de": "dackel hunde hund"
   },
   {
    "id": "dogs-dachshund-0011",
@@ -2743,7 +2953,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "594b2d2d9d3561d1",
-   "seam": 0.97
+   "seam": 0.97,
+   "de": "dackel hunde hund"
   },
   {
    "id": "dogs-dachshund-0012",
@@ -2756,7 +2967,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "e0c1d0e818987e65",
-   "seam": 0.8
+   "seam": 0.8,
+   "de": "dackel hunde hund"
   },
   {
    "id": "dogs-dachshund-0013",
@@ -2769,7 +2981,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "e0566a5ede626268",
-   "seam": 1.11
+   "seam": 1.11,
+   "de": "dackel hunde hund"
   },
   {
    "id": "dogs-dachshund-0014",
@@ -2782,7 +2995,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "7f3f3f3f3f1f3939",
-   "seam": 0.58
+   "seam": 0.58,
+   "de": "dackel hunde hund"
   },
   {
    "id": "dogs-french-bulldog-0001",
@@ -2795,7 +3009,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "b4e4e4e4d3dedede",
-   "seam": 2.26
+   "seam": 2.26,
+   "de": "französisch bulldogge hunde hund französische"
   },
   {
    "id": "dogs-french-bulldog-0002",
@@ -2808,7 +3023,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "c64e25de4c4d7545",
-   "seam": 0.78
+   "seam": 0.78,
+   "de": "französisch bulldogge hunde hund französische"
   },
   {
    "id": "dogs-french-bulldog-0003",
@@ -2821,7 +3037,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "69b2b26969b2b269",
-   "seam": 0.65
+   "seam": 0.65,
+   "de": "französisch bulldogge hunde hund französische"
   },
   {
    "id": "dogs-french-bulldog-0004",
@@ -2834,7 +3051,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "3371aa2a3133aa33",
-   "seam": 3.29
+   "seam": 3.29,
+   "de": "französisch bulldogge hunde hund französische"
   },
   {
    "id": "dogs-french-bulldog-0005",
@@ -2847,7 +3065,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "dc96a3e9c08065cc",
-   "seam": 0.37
+   "seam": 0.37,
+   "de": "französisch bulldogge hunde hund französische"
   },
   {
    "id": "dogs-golden-retriever-0001",
@@ -2860,7 +3079,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "e96b7b5aa59989c8",
-   "seam": 1.0
+   "seam": 1.0,
+   "de": "golden retriever muster hunde hund"
   },
   {
    "id": "dogs-golden-retriever-0002",
@@ -2873,7 +3093,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "2229978accc6a626",
-   "seam": 1.57
+   "seam": 1.57,
+   "de": "golden retriever muster hunde hund"
   },
   {
    "id": "dogs-golden-retriever-0003",
@@ -2886,7 +3107,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "6f93a585d35a4b69",
-   "seam": 1.84
+   "seam": 1.84,
+   "de": "golden retriever muster hunde hund"
   },
   {
    "id": "dogs-golden-retriever-0004",
@@ -2899,7 +3121,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "b33b5e966964547c",
-   "seam": 0.95
+   "seam": 0.95,
+   "de": "golden retriever muster hunde hund"
   },
   {
    "id": "dogs-golden-retriever-0005",
@@ -2912,7 +3135,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "3d6d6527c3c15d35",
-   "seam": 1.61
+   "seam": 1.61,
+   "de": "golden retriever muster hunde hund"
   },
   {
    "id": "dogs-golden-retriever-0006",
@@ -2925,7 +3149,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "ba9c0413a16583b3",
-   "seam": 1.0
+   "seam": 1.0,
+   "de": "golden retriever muster hunde hund"
   },
   {
    "id": "dogs-golden-retriever-0007",
@@ -2938,7 +3163,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "ccaeafb6329a9165",
-   "seam": 0.52
+   "seam": 0.52,
+   "de": "golden retriever muster hunde hund"
   },
   {
    "id": "dogs-golden-retriever-0008",
@@ -2951,7 +3177,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "ab23542c26f357eb",
-   "seam": 0.9
+   "seam": 0.9,
+   "de": "golden retriever muster hunde hund"
   },
   {
    "id": "dogs-golden-retriever-0009",
@@ -2964,7 +3191,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "31bccf73d191e9e0",
-   "seam": 0.9
+   "seam": 0.9,
+   "de": "golden retriever hunde hund"
   },
   {
    "id": "dogs-golden-retriever-0010",
@@ -2977,7 +3205,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "63636e6725e6f373",
-   "seam": 1.18
+   "seam": 1.18,
+   "de": "golden retriever hunde hund"
   },
   {
    "id": "dogs-golden-retriever-0011",
@@ -2990,7 +3219,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "5d252d6991d8f03c",
-   "seam": 0.83
+   "seam": 0.83,
+   "de": "weiß hund hunde golden retriever"
   },
   {
    "id": "dogs-poodles-0001",
@@ -3003,7 +3233,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "cccce1c94d983b3b",
-   "seam": 1.02
+   "seam": 1.02,
+   "de": "pudel hunde hund"
   },
   {
    "id": "dogs-poodles-0002",
@@ -3016,7 +3247,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "2e6e2191666561c9",
-   "seam": 0.77
+   "seam": 0.77,
+   "de": "pudel hunde hund"
   },
   {
    "id": "dogs-poodles-0003",
@@ -3029,7 +3261,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "333373330f0d2773",
-   "seam": 0.92
+   "seam": 0.92,
+   "de": "pudel hunde hund"
   },
   {
    "id": "dogs-poodles-0004",
@@ -3042,7 +3275,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "96d41b2b9c573725",
-   "seam": 0.84
+   "seam": 0.84,
+   "de": "pudel hunde hund"
   },
   {
    "id": "dogs-poodles-0005",
@@ -3055,7 +3289,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "d2c7543c2d356166",
-   "seam": 1.08
+   "seam": 1.08,
+   "de": "pudel hunde hund"
   },
   {
    "id": "dogs-poodles-0006",
@@ -3068,7 +3303,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "57cd839c2d878e61",
-   "seam": 0.83
+   "seam": 0.83,
+   "de": "pudel hunde hund"
   },
   {
    "id": "dogs-poodles-0007",
@@ -3081,7 +3317,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "5192b2242f8fdddd",
-   "seam": 0.76
+   "seam": 0.76,
+   "de": "pudel hunde hund"
   },
   {
    "id": "dogs-poodles-0008",
@@ -3094,7 +3331,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "4d4d696d4d6d696d",
-   "seam": 1.82
+   "seam": 1.82,
+   "de": "pudel hunde hund"
   },
   {
    "id": "dogs-poodles-0009",
@@ -3107,7 +3345,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "68e437349793bc2c",
-   "seam": 0.94
+   "seam": 0.94,
+   "de": "pudel hunde hund"
   },
   {
    "id": "dogs-poodles-0010",
@@ -3120,7 +3359,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "dd4d6747ccd933bb",
-   "seam": 1.01
+   "seam": 1.01,
+   "de": "pudel hunde hund"
   },
   {
    "id": "dogs-poodles-0011",
@@ -3133,7 +3373,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "0d0f1f1b3b674747",
-   "seam": 0.89
+   "seam": 0.89,
+   "de": "pudel hunde hund"
   },
   {
    "id": "dogs-poodles-0012",
@@ -3146,7 +3387,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "c1c9d1d91b9393c3",
-   "seam": 1.0
+   "seam": 1.0,
+   "de": "pudel hunde hund"
   },
   {
    "id": "dogs-poodles-0013",
@@ -3159,7 +3401,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "74a6b6aee6a2e666",
-   "seam": 1.09
+   "seam": 1.09,
+   "de": "pudel hunde hund"
   },
   {
    "id": "dogs-poodles-0014",
@@ -3172,7 +3415,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "2b2929a4a2a333eb",
-   "seam": 0.93
+   "seam": 0.93,
+   "de": "pudel auge hunde hund"
   },
   {
    "id": "dogs-poodles-0015",
@@ -3185,7 +3429,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "49561b6a2619f232",
-   "seam": 0.6
+   "seam": 0.6,
+   "de": "pudel hunde hund"
   },
   {
    "id": "dogs-poodles-0016",
@@ -3198,7 +3443,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "d655252dca6c6cd6",
-   "seam": 1.12
+   "seam": 1.12,
+   "de": "pudel hunde hund"
   },
   {
    "id": "dogs-poodles-0017",
@@ -3211,7 +3457,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "cdcd9c1d3132c9c5",
-   "seam": 1.24
+   "seam": 1.24,
+   "de": "pudel hunde hund"
   },
   {
    "id": "dogs-poodles-0018",
@@ -3224,7 +3471,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "3b49c481b1775376",
-   "seam": 1.0
+   "seam": 1.0,
+   "de": "pudel hunde hund"
   },
   {
    "id": "dogs-poodles-0019",
@@ -3237,7 +3485,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "597ce6c62170f899",
-   "seam": 1.19
+   "seam": 1.19,
+   "de": "pudel hunde hund"
   },
   {
    "id": "dogs-poodles-0020",
@@ -3250,7 +3499,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "f6c78a9959dcbd39",
-   "seam": 1.05
+   "seam": 1.05,
+   "de": "pudel hunde hund"
   },
   {
    "id": "dogs-0001",
@@ -3263,7 +3513,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "b286d1d3e226555b",
-   "seam": 0.46
+   "seam": 0.46,
+   "de": "hund muster schräg retro blumen floral hunde"
   },
   {
    "id": "dogs-0002",
@@ -3276,7 +3527,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "63098cccddc9ce6c",
-   "seam": 1.0
+   "seam": 1.0,
+   "de": "hund muster nah nahaufnahme modern hunde"
   },
   {
    "id": "dogs-0003",
@@ -3289,7 +3541,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "2339594ca7533421",
-   "seam": 0.92
+   "seam": 0.92,
+   "de": "hund muster diagonal kunst jugendstil hunde"
   },
   {
    "id": "dogs-0004",
@@ -3302,7 +3555,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "c433e9db33246e8c",
-   "seam": 1.22
+   "seam": 1.22,
+   "de": "hund muster diagonal kunst jugendstil hunde"
   },
   {
    "id": "dogs-0005",
@@ -3315,7 +3569,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "2038393135391911",
-   "seam": 0.59
+   "seam": 0.59,
+   "de": "hund muster tief winkel retro hunde"
   },
   {
    "id": "dogs-0006",
@@ -3328,7 +3583,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "cc4ccccccccccccc",
-   "seam": 2.31
+   "seam": 2.31,
+   "de": "hund muster seite ansicht klassisch hunde"
   },
   {
    "id": "dogs-0007",
@@ -3341,7 +3597,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "d2d213d0c98ec0d2",
-   "seam": 1.0
+   "seam": 1.0,
+   "de": "hund muster gerade cartoon comic hunde"
   },
   {
    "id": "dogs-0008",
@@ -3354,7 +3611,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "d6d22195d6922995",
-   "seam": 0.95
+   "seam": 0.95,
+   "de": "hund muster gerade cartoon comic hunde"
   },
   {
    "id": "dogs-0009",
@@ -3367,7 +3625,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "2852c6eeb11d4b4a",
-   "seam": 1.1
+   "seam": 1.1,
+   "de": "hund muster oben runter pop hunde"
   },
   {
    "id": "dogs-0010",
@@ -3380,7 +3639,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "5555555545d55555",
-   "seam": 0.83
+   "seam": 0.83,
+   "de": "hund muster froschperspektive auge ansicht hunde"
   },
   {
    "id": "dogs-0011",
@@ -3393,7 +3653,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "63e1656b7361e165",
-   "seam": 1.14
+   "seam": 1.14,
+   "de": "groß hund hunde"
   },
   {
    "id": "dogs-0012",
@@ -3406,7 +3667,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "f0f4dc8c0783a6e0",
-   "seam": 1.26
+   "seam": 1.26,
+   "de": "groß hund hunde"
   },
   {
    "id": "dogs-0013",
@@ -3419,7 +3681,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "86b3b34b665e8cf5",
-   "seam": 0.88
+   "seam": 0.88,
+   "de": "comic hund köpfe hunde"
   },
   {
    "id": "dogs-0014",
@@ -3432,7 +3695,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "6c13a8246574bb55",
-   "seam": 1.04
+   "seam": 1.04,
+   "de": "comic muster hund köpfe hunde"
   },
   {
    "id": "dogs-0015",
@@ -3445,7 +3709,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "f1244c539a9296e9",
-   "seam": 1.08
+   "seam": 1.08,
+   "de": "süß niedlich glupschaugen kulleraugen auge anime hund hunde"
   },
   {
    "id": "dogs-0016",
@@ -3458,7 +3723,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "0d487b3266668ea4",
-   "seam": 1.08
+   "seam": 1.08,
+   "de": "süß niedlich glupschaugen kulleraugen auge anime hund hunde"
   },
   {
    "id": "dogs-0017",
@@ -3471,7 +3737,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "63732925b6339898",
-   "seam": 0.61
+   "seam": 0.61,
+   "de": "süß niedlich glupschaugen kulleraugen auge anime hund hunde"
   },
   {
    "id": "dogs-0018",
@@ -3484,7 +3751,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "8f96b42e697530cb",
-   "seam": 0.89
+   "seam": 0.89,
+   "de": "süß niedlich glupschaugen kulleraugen augen hund köpfe hunde"
   },
   {
    "id": "dogs-0019",
@@ -3497,7 +3765,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "b6ac726bc94a237b",
-   "seam": 0.93
+   "seam": 0.93,
+   "de": "fröhlich comic hund köpfe hunde"
   },
   {
    "id": "dogs-0020",
@@ -3510,7 +3779,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "d95964d496b6b6b6",
-   "seam": 1.02
+   "seam": 1.02,
+   "de": "fröhlich lustig comic hund köpfe hunde"
   },
   {
    "id": "dogs-0021",
@@ -3523,7 +3793,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "aca589aa3c8c2c2d",
-   "seam": 0.9
+   "seam": 0.9,
+   "de": "fröhlich lustig comic hund köpfe hunde"
   },
   {
    "id": "dogs-0022",
@@ -3536,7 +3807,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "f4279695a3d64a2a",
-   "seam": 1.02
+   "seam": 1.02,
+   "de": "fröhlich lustig comic hund köpfe hunde"
   },
   {
    "id": "dogs-0023",
@@ -3549,7 +3821,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "185899d9b296dc40",
-   "seam": 0.76
+   "seam": 0.76,
+   "de": "sehr detailliert süß niedlich glupschaugen kulleraugen auge hunde hund"
   },
   {
    "id": "dogs-0024",
@@ -3562,7 +3835,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "b5b7d999665b9bd8",
-   "seam": 0.53
+   "seam": 0.53,
+   "de": "sehr detailliert süß niedlich glupschaugen kulleraugen auge hunde hund"
   },
   {
    "id": "dogs-0025",
@@ -3575,7 +3849,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "a525969223ada5a4",
-   "seam": 0.9
+   "seam": 0.9,
+   "de": "modern hund muster von oben minimal hunde"
   },
   {
    "id": "dogs-0026",
@@ -3588,7 +3863,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "4e1a92d24552f7a5",
-   "seam": 0.95
+   "seam": 0.95,
+   "de": "modern hund muster von oben minimal hunde"
   },
   {
    "id": "dogs-0027",
@@ -3601,7 +3877,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "6b46313123567631",
-   "seam": 0.98
+   "seam": 0.98,
+   "de": "modern hund muster von oben minimal hunde"
   },
   {
    "id": "dogs-0028",
@@ -3614,7 +3891,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "26266a5b267434ac",
-   "seam": 0.59
+   "seam": 0.59,
+   "de": "modern hund muster von oben minimal hunde"
   },
   {
    "id": "dogs-0029",
@@ -3627,7 +3905,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "b48e0b8b094f6347",
-   "seam": 0.89
+   "seam": 0.89,
+   "de": "tier hunde hund"
   },
   {
    "id": "dogs-0030",
@@ -3640,7 +3919,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "b3332e4d89b86372",
-   "seam": 0.69
+   "seam": 0.69,
+   "de": "tier hunde hund"
   },
   {
    "id": "dogs-0031",
@@ -3653,7 +3933,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "757938585859faeb",
-   "seam": 0.67
+   "seam": 0.67,
+   "de": "tier hunde hund"
   },
   {
    "id": "dogs-0032",
@@ -3666,7 +3947,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "da7e46c32a171719",
-   "seam": 1.01
+   "seam": 1.01,
+   "de": "tier hunde hund"
   },
   {
    "id": "dogs-0033",
@@ -3679,7 +3961,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "9db7998527b3141c",
-   "seam": 0.88
+   "seam": 0.88,
+   "de": "golden retriever hunde hund"
   },
   {
    "id": "dogs-0034",
@@ -3692,7 +3975,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "b3654d949393d246",
-   "seam": 1.07
+   "seam": 1.07,
+   "de": "golden retriever hunde hund"
   },
   {
    "id": "dogs-0035",
@@ -3705,7 +3989,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "c898b2180f8e9879",
-   "seam": 0.77
+   "seam": 0.77,
+   "de": "golden retriever hunde hund"
   },
   {
    "id": "dogs-0036",
@@ -3718,7 +4003,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "64129cbc3332b8ec",
-   "seam": 1.02
+   "seam": 1.02,
+   "de": "golden retriever hunde hund"
   },
   {
    "id": "dogs-0037",
@@ -3731,7 +4017,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "9189cc1c1d0e8c18",
-   "seam": 0.88
+   "seam": 0.88,
+   "de": "golden retriever hunde hund"
   },
   {
    "id": "dogs-0038",
@@ -3745,7 +4032,8 @@
    "h": 1024,
    "hash": "31bccf73d191e9e0",
    "seam": 0.9,
-   "duplicate_of": "dogs-golden-retriever-0009"
+   "duplicate_of": "dogs-golden-retriever-0009",
+   "de": "golden retriever hunde hund"
   },
   {
    "id": "dogs-0039",
@@ -3758,7 +4046,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "3192a48ac99999b3",
-   "seam": 1.34
+   "seam": 1.34,
+   "de": "golden retriever hunde hund"
   },
   {
    "id": "dogs-0040",
@@ -3771,7 +4060,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "3f0f833718dce267",
-   "seam": 0.6
+   "seam": 0.6,
+   "de": "pudel hunde hund"
   },
   {
    "id": "dogs-0041",
@@ -3784,7 +4074,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "344e4f61606141d4",
-   "seam": 0.97
+   "seam": 0.97,
+   "de": "pudel hunde hund"
   },
   {
    "id": "dogs-0042",
@@ -3797,7 +4088,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "f179690d4f1b5b70",
-   "seam": 1.0
+   "seam": 1.0,
+   "de": "weiß hund hunde"
   },
   {
    "id": "dogs-0043",
@@ -3810,7 +4102,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "765c5c1e9e27a6cc",
-   "seam": 0.88
+   "seam": 0.88,
+   "de": "weiß hund hunde"
   },
   {
    "id": "dogs-0044",
@@ -3823,7 +4116,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "9b7d9f1727f1e949",
-   "seam": 1.57
+   "seam": 1.57,
+   "de": "weiß hund hunde"
   },
   {
    "id": "dogs-0045",
@@ -3836,7 +4130,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "61539b5968ecc1c1",
-   "seam": 1.18
+   "seam": 1.18,
+   "de": "weiß hund hunde"
   },
   {
    "id": "hamsters-0001",
@@ -3849,7 +4144,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "cd9265db92649a25",
-   "seam": 0.56
+   "seam": 0.56,
+   "de": "hamster"
   },
   {
    "id": "hamsters-0002",
@@ -3862,7 +4158,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "4c245c9283273336",
-   "seam": 0.84
+   "seam": 0.84,
+   "de": "albino weiß hamster"
   },
   {
    "id": "hamsters-0003",
@@ -3875,7 +4172,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "01014b22d099c433",
-   "seam": 0.3
+   "seam": 0.3,
+   "de": "beige hamster"
   },
   {
    "id": "hamsters-0004",
@@ -3888,7 +4186,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "77692f27ca2e14d4",
-   "seam": 0.78
+   "seam": 0.78,
+   "de": "schwarz weiß hamster"
   },
   {
    "id": "hamsters-0005",
@@ -3901,7 +4200,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "0e4e707867be3a5e",
-   "seam": 1.72
+   "seam": 1.72,
+   "de": "schwarz weiß hamster"
   },
   {
    "id": "hamsters-0006",
@@ -3914,7 +4214,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "9cacc6876b636f06",
-   "seam": 0.91
+   "seam": 0.91,
+   "de": "braun hamster"
   },
   {
    "id": "hamsters-0007",
@@ -3927,7 +4228,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "111645cd127939b3",
-   "seam": 1.37
+   "seam": 1.37,
+   "de": "braun hamster"
   },
   {
    "id": "hamsters-0008",
@@ -3940,7 +4242,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "03cc7667c5e1b031",
-   "seam": 1.06
+   "seam": 1.06,
+   "de": "braun hamster"
   },
   {
    "id": "hamsters-0009",
@@ -3953,7 +4256,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "1c9c1ccecec66262",
-   "seam": 1.02
+   "seam": 1.02,
+   "de": "braun hamster"
   },
   {
    "id": "hamsters-0010",
@@ -3966,7 +4270,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "54353c8ce3d3456d",
-   "seam": 0.83
+   "seam": 0.83,
+   "de": "braun hamster"
   },
   {
    "id": "hamsters-0011",
@@ -3979,7 +4284,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "943427959ecc6ce2",
-   "seam": 1.06
+   "seam": 1.06,
+   "de": "braun hamster"
   },
   {
    "id": "hamsters-0012",
@@ -3992,7 +4298,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "8f837a5e0f67c28c",
-   "seam": 1.77
+   "seam": 1.77,
+   "de": "braun hamster"
   },
   {
    "id": "hamsters-0013",
@@ -4005,7 +4312,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "d4732b698e3173c9",
-   "seam": 0.81
+   "seam": 0.81,
+   "de": "golden hamster"
   },
   {
    "id": "hamsters-0014",
@@ -4018,7 +4326,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "d6e2e4d2313b33ba",
-   "seam": 1.27
+   "seam": 1.27,
+   "de": "golden hamster"
   },
   {
    "id": "hamsters-0015",
@@ -4031,7 +4340,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "4dc952f2d2962e6f",
-   "seam": 1.14
+   "seam": 1.14,
+   "de": "grau hamster"
   },
   {
    "id": "hamsters-0016",
@@ -4044,7 +4354,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "607273a7c686a6e2",
-   "seam": 0.86
+   "seam": 0.86,
+   "de": "grau hamster"
   },
   {
    "id": "hamsters-0017",
@@ -4057,7 +4368,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "e5e46a2895cd8ad2",
-   "seam": 0.92
+   "seam": 0.92,
+   "de": "grau hamster"
   },
   {
    "id": "hamsters-0018",
@@ -4070,7 +4382,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "adfa56b6a85bd531",
-   "seam": 1.7
+   "seam": 1.7,
+   "de": "orange hamster"
   },
   {
    "id": "hamsters-0019",
@@ -4083,7 +4396,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "58f81e3e0e0e1e3f",
-   "seam": 0.68
+   "seam": 0.68,
+   "de": "gefleckt hamster"
   },
   {
    "id": "hamsters-0020",
@@ -4096,7 +4410,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "9727c9dd993f1b1f",
-   "seam": 1.18
+   "seam": 1.18,
+   "de": "gefleckt hamster"
   },
   {
    "id": "hamsters-0021",
@@ -4109,7 +4424,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "391d0d4627e56469",
-   "seam": 0.83
+   "seam": 0.83,
+   "de": "weiß hamster"
   },
   {
    "id": "hamsters-0022",
@@ -4122,7 +4438,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "3d5547e66322600c",
-   "seam": 0.88
+   "seam": 0.88,
+   "de": "weiß hamster"
   },
   {
    "id": "hamsters-0023",
@@ -4135,7 +4452,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "1d0a59abb3406438",
-   "seam": 0.78
+   "seam": 0.78,
+   "de": "weiß hamster"
   },
   {
    "id": "hamsters-0024",
@@ -4148,7 +4466,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "6cb2c48f03a5a48d",
-   "seam": 1.15
+   "seam": 1.15,
+   "de": "weiß hamster"
   },
   {
    "id": "hamsters-0025",
@@ -4161,7 +4480,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "253930354b4e64f4",
-   "seam": 1.03
+   "seam": 1.03,
+   "de": "weiß hamster"
   },
   {
    "id": "hamsters-0026",
@@ -4174,7 +4494,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "7c269f87a3f3e272",
-   "seam": 0.62
+   "seam": 0.62,
+   "de": "weiß hamster"
   },
   {
    "id": "hamsters-0027",
@@ -4187,7 +4508,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "cc6870d40783e3e5",
-   "seam": 0.97
+   "seam": 0.97,
+   "de": "weiß hamster"
   },
   {
    "id": "hamsters-0028",
@@ -4200,7 +4522,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "ce5533cc8e3133cc",
-   "seam": 0.91
+   "seam": 0.91,
+   "de": "groß hamster gesicht"
   },
   {
    "id": "hamsters-0029",
@@ -4213,7 +4536,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "c1b3834e0e0f0706",
-   "seam": 1.93
+   "seam": 1.93,
+   "de": "koch kochen hamster stehend"
   },
   {
    "id": "hamsters-0030",
@@ -4226,7 +4550,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "9696a5656dc62521",
-   "seam": 1.05
+   "seam": 1.05,
+   "de": "süß niedlich comic hamster köpfe"
   },
   {
    "id": "hamsters-0031",
@@ -4239,7 +4564,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "ccce4b71938b2b32",
-   "seam": 0.69
+   "seam": 0.69,
+   "de": "süß niedlich comic hamster köpfe"
   },
   {
    "id": "hamsters-0032",
@@ -4252,7 +4578,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "9a923736aab3934d",
-   "seam": 0.91
+   "seam": 0.91,
+   "de": "süß niedlich glupschaugen kulleraugen auge anime hamster"
   },
   {
    "id": "hamsters-0033",
@@ -4265,7 +4592,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "ded3c1494949cd4d",
-   "seam": 1.09
+   "seam": 1.09,
+   "de": "süß niedlich glupschaugen kulleraugen auge anime hamster"
   },
   {
    "id": "hamsters-0034",
@@ -4278,7 +4606,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "8aaaab2c2bacaaaa",
-   "seam": 0.21
+   "seam": 0.21,
+   "de": "hamster gesicht mitte"
   },
   {
    "id": "hamsters-0035",
@@ -4291,7 +4620,8 @@
    "w": 622,
    "h": 622,
    "hash": "6d59b464c74cb0a6",
-   "seam": 1.41
+   "seam": 1.41,
+   "de": "hamster pixel kunst stil"
   },
   {
    "id": "hamsters-0036",
@@ -4304,7 +4634,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "565ccc2525595956",
-   "seam": 0.91
+   "seam": 0.91,
+   "de": "fröhlich comic hamster köpfe"
   },
   {
    "id": "hamsters-0037",
@@ -4317,7 +4648,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "5668b2ab24969bcd",
-   "seam": 1.51
+   "seam": 1.51,
+   "de": "fröhlich comic hamster köpfe"
   },
   {
    "id": "hamsters-0038",
@@ -4330,7 +4662,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "ca8ac9cd2cb0a62b",
-   "seam": 1.11
+   "seam": 1.11,
+   "de": "sehr detailliert süß niedlich glupschaugen kulleraugen auge hamster"
   },
   {
    "id": "hamsters-0039",
@@ -4343,7 +4676,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "b6b43d6d4c6d2632",
-   "seam": 0.9
+   "seam": 0.9,
+   "de": "sehr detailliert süß niedlich glupschaugen kulleraugen auge hamster"
   },
   {
    "id": "pixelart-0001",
@@ -4356,7 +4690,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "73349bf1e61c9890",
-   "seam": 0.96
+   "seam": 0.96,
+   "de": "pixel stadt pixelart"
   },
   {
    "id": "pixelart-0002",
@@ -4369,7 +4704,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "c58c3c780c21c3c3",
-   "seam": 1.05
+   "seam": 1.05,
+   "de": "pixel stadt pixelart"
   },
   {
    "id": "pixelart-0003",
@@ -4382,7 +4718,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "0f31c9ce6931309a",
-   "seam": 0.79
+   "seam": 0.79,
+   "de": "neon pixelart pixel"
   },
   {
    "id": "pixelart-0004",
@@ -4395,7 +4732,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "97d2165760e24c98",
-   "seam": 1.22
+   "seam": 1.22,
+   "de": "neon stadt pixelart pixel"
   },
   {
    "id": "pixelart-0005",
@@ -4408,7 +4746,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "f2f323a61c3c38ba",
-   "seam": 0.99
+   "seam": 0.99,
+   "de": "neon stadt pixelart pixel"
   },
   {
    "id": "pixelart-0006",
@@ -4421,7 +4760,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "72521e173696f77c",
-   "seam": 0.43
+   "seam": 0.43,
+   "de": "neon stadt pixelart pixel"
   },
   {
    "id": "pixelart-0007",
@@ -4434,7 +4774,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "27e4618f4e462626",
-   "seam": 0.96
+   "seam": 0.96,
+   "de": "neon stadt pixelart pixel"
   },
   {
    "id": "pixelart-0008",
@@ -4447,7 +4788,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "13839c983041869e",
-   "seam": 1.3
+   "seam": 1.3,
+   "de": "neon stadt pixelart pixel"
   },
   {
    "id": "pixelart-0009",
@@ -4460,7 +4802,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "e0cc4e875b1886cd",
-   "seam": 1.05
+   "seam": 1.05,
+   "de": "neon stadt pixelart pixel"
   },
   {
    "id": "pixelart-0010",
@@ -4473,7 +4816,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "1e344403844c98d8",
-   "seam": 1.05
+   "seam": 1.05,
+   "de": "neon stadt pixelart pixel"
   },
   {
    "id": "pixelart-0011",
@@ -4486,7 +4830,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "6567e231c3ce8e89",
-   "seam": 0.98
+   "seam": 0.98,
+   "de": "neon stadt pixelart pixel"
   },
   {
    "id": "pixelart-0012",
@@ -4499,7 +4844,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "9b8cc2c661731b9c",
-   "seam": 1.15
+   "seam": 1.15,
+   "de": "neon stadt pixelart pixel"
   },
   {
    "id": "pixelart-0013",
@@ -4512,7 +4858,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "786c65909338d0d2",
-   "seam": 1.65
+   "seam": 1.65,
+   "de": "pixel stadt pixelart"
   },
   {
    "id": "pixelart-0014",
@@ -4525,7 +4872,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "e3c3d1272d4e4a4e",
-   "seam": 1.11
+   "seam": 1.11,
+   "de": "pixel stadt pixelart"
   },
   {
    "id": "pixelart-0015",
@@ -4538,7 +4886,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "2507536e1c1f9389",
-   "seam": 0.78
+   "seam": 0.78,
+   "de": "pixel stadt pixelart"
   },
   {
    "id": "pixelart-0016",
@@ -4551,7 +4900,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "773bbce26749e8dc",
-   "seam": 0.68
+   "seam": 0.68,
+   "de": "pixel stadt pixelart"
   },
   {
    "id": "pixelart-0017",
@@ -4564,7 +4914,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "e4f4987864277443",
-   "seam": 0.93
+   "seam": 0.93,
+   "de": "pixel stadt pixelart"
   },
   {
    "id": "pixelart-0018",
@@ -4577,7 +4928,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "184ac4c4f6767131",
-   "seam": 0.77
+   "seam": 0.77,
+   "de": "pixel stadt pixelart"
   },
   {
    "id": "pixelart-0019",
@@ -4590,7 +4942,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "9d45464657dced99",
-   "seam": 1.21
+   "seam": 1.21,
+   "de": "pixel stadt pixelart"
   },
   {
    "id": "pixelart-0020",
@@ -4603,7 +4956,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "8e637354dcf2330f",
-   "seam": 1.06
+   "seam": 1.06,
+   "de": "pixel stadt pixelart"
   },
   {
    "id": "pixelart-0021",
@@ -4616,7 +4970,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "362d995959c8e669",
-   "seam": 0.87
+   "seam": 0.87,
+   "de": "pixel stadt pixelart"
   },
   {
    "id": "pixelart-0022",
@@ -4629,7 +4984,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "28385c64c2e57373",
-   "seam": 0.98
+   "seam": 0.98,
+   "de": "pixel stadt pixelart"
   },
   {
    "id": "pixelart-0023",
@@ -4642,7 +4998,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "8713a63e1979339c",
-   "seam": 1.32
+   "seam": 1.32,
+   "de": "pixel stadt pixelart"
   },
   {
    "id": "pixelart-0024",
@@ -4655,7 +5012,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "34902b4ddad68e92",
-   "seam": 1.33
+   "seam": 1.33,
+   "de": "pixel stadt pixelart"
   },
   {
    "id": "pixelart-0025",
@@ -4668,7 +5026,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "8480631e171726d7",
-   "seam": 0.88
+   "seam": 0.88,
+   "de": "pixel stadt pixelart"
   },
   {
    "id": "pixelart-0026",
@@ -4681,7 +5040,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "3c366366e66373b2",
-   "seam": 1.2
+   "seam": 1.2,
+   "de": "pixel slum elendsviertel pixelart"
   },
   {
    "id": "pixelart-0027",
@@ -4694,7 +5054,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "0f1a36766a79684b",
-   "seam": 0.85
+   "seam": 0.85,
+   "de": "pixel slum elendsviertel pixelart"
   },
   {
    "id": "pixelart-0028",
@@ -4707,7 +5068,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "8e8dac5c98341830",
-   "seam": 0.9
+   "seam": 0.9,
+   "de": "pixel slum elendsviertel pixelart"
   },
   {
    "id": "pixelart-0029",
@@ -4720,7 +5082,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "1f52c02141f03673",
-   "seam": 0.78
+   "seam": 0.78,
+   "de": "pixel slum elendsviertel pixelart"
   },
   {
    "id": "pixelart-0030",
@@ -4733,7 +5096,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "9c169ac959515159",
-   "seam": 1.51
+   "seam": 1.51,
+   "de": "pixel slum elendsviertel pixelart"
   },
   {
    "id": "pixelart-0031",
@@ -4746,7 +5110,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "c5c61f37274be6e2",
-   "seam": 0.76
+   "seam": 0.76,
+   "de": "pixel slum elendsviertel pixelart"
   },
   {
    "id": "pixelart-0032",
@@ -4759,7 +5124,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "47e63359581a9d06",
-   "seam": 0.62
+   "seam": 0.62,
+   "de": "pixel slum elendsviertel pixelart"
   },
   {
    "id": "pixelart-0033",
@@ -4772,7 +5138,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "94dcc66344e43633",
-   "seam": 1.25
+   "seam": 1.25,
+   "de": "pixel slum elendsviertel pixelart"
   },
   {
    "id": "pixelart-0034",
@@ -4785,7 +5152,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "193958191b1f07d3",
-   "seam": 0.85
+   "seam": 0.85,
+   "de": "pixel slum elendsviertel pixelart"
   },
   {
    "id": "pixelart-0035",
@@ -4798,7 +5166,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "912312276e3e98d0",
-   "seam": 0.95
+   "seam": 0.95,
+   "de": "pixel slum elendsviertel pixelart"
   },
   {
    "id": "pixelart-0036",
@@ -4811,7 +5180,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "73395c5cdcdc66e2",
-   "seam": 1.32
+   "seam": 1.32,
+   "de": "pixel slum elendsviertel pixelart"
   },
   {
    "id": "pixelart-0037",
@@ -4824,7 +5194,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "cec49655a44a924c",
-   "seam": 0.97
+   "seam": 0.97,
+   "de": "zyklop monster pixelart pixel"
   },
   {
    "id": "pixelart-0038",
@@ -4837,7 +5208,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "07054e58c6c26f67",
-   "seam": 0.81
+   "seam": 0.81,
+   "de": "panorama pixelart pixel"
   },
   {
    "id": "pixelart-0039",
@@ -4850,7 +5222,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "c66d5b92d5a55a52",
-   "seam": 0.57
+   "seam": 0.57,
+   "de": "rund monster pixelart pixel"
   },
   {
    "id": "pixelart-0040",
@@ -4863,7 +5236,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "7c6c4c0d137670d6",
-   "seam": 0.9
+   "seam": 0.9,
+   "de": "leuchtend pixel kunst slum elendsviertel gefüllt pixelart"
   },
   {
    "id": "pixelart-0041",
@@ -4876,7 +5250,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "8a31694694f0869b",
-   "seam": 0.89
+   "seam": 0.89,
+   "de": "leuchtend pixel kunst slum elendsviertel pixelart"
   },
   {
    "id": "pixelart-0042",
@@ -4889,7 +5264,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "63e3e3653c785cc7",
-   "seam": 1.17
+   "seam": 1.17,
+   "de": "leuchtend pixel kunst slum elendsviertel pixelart"
   },
   {
    "id": "pixelart-0043",
@@ -4902,7 +5278,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "5226e6e4f1f47937",
-   "seam": 1.07
+   "seam": 1.07,
+   "de": "leuchtend pixel kunst slum elendsviertel pixelart"
   },
   {
    "id": "pixelart-0044",
@@ -4915,7 +5292,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "e2990d7a1a9c92c6",
-   "seam": 0.9
+   "seam": 0.9,
+   "de": "pixel kunst figur pixelart"
   },
   {
    "id": "pixelart-0045",
@@ -4928,7 +5306,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "1148388988dc5988",
-   "seam": 1.55
+   "seam": 1.55,
+   "de": "pixel kunst figur pixelart"
   },
   {
    "id": "pixelart-0046",
@@ -4941,7 +5320,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "c0c7b6b696c60dc9",
-   "seam": 0.77
+   "seam": 0.77,
+   "de": "pixel kunst figur pixelart"
   },
   {
    "id": "pixelart-0047",
@@ -4954,7 +5334,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "699d393919692b1b",
-   "seam": 0.59
+   "seam": 0.59,
+   "de": "pixel kunst slum elendsviertel pixelart"
   },
   {
    "id": "pixelart-0048",
@@ -4967,7 +5348,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "f4939d844ec7daed",
-   "seam": 0.69
+   "seam": 0.69,
+   "de": "pixel kunst slum elendsviertel pixelart"
   },
   {
    "id": "pixelart-0049",
@@ -4980,7 +5362,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "261c8e91a4e7c089",
-   "seam": 0.95
+   "seam": 0.95,
+   "de": "pixel kunst slum elendsviertel pixelart"
   },
   {
    "id": "pixelart-0050",
@@ -4993,7 +5376,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "44c6672264714f17",
-   "seam": 1.03
+   "seam": 1.03,
+   "de": "pixel kunst slum elendsviertel pixelart"
   },
   {
    "id": "pixelart-0051",
@@ -5006,7 +5390,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "d81333cc9c9335dc",
-   "seam": 1.06
+   "seam": 1.06,
+   "de": "pixel kunst slum elendsviertel pixelart"
   },
   {
    "id": "pixelart-0052",
@@ -5019,7 +5404,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "73061d425b9969ec",
-   "seam": 1.18
+   "seam": 1.18,
+   "de": "pixel kunst slum elendsviertel pixelart"
   },
   {
    "id": "pixelart-0053",
@@ -5032,7 +5418,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "1d993baec9167e98",
-   "seam": 1.07
+   "seam": 1.07,
+   "de": "pixel kunst slum elendsviertel pixelart"
   },
   {
    "id": "pixelart-0054",
@@ -5045,7 +5432,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "6670a2d2f33399e6",
-   "seam": 1.18
+   "seam": 1.18,
+   "de": "pixel kunst slum elendsviertel pixelart"
   },
   {
    "id": "pixelart-0055",
@@ -5058,7 +5446,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "f2313531199a717c",
-   "seam": 1.4
+   "seam": 1.4,
+   "de": "pixel kunst slum elendsviertel pixelart"
   },
   {
    "id": "pixelart-0056",
@@ -5071,7 +5460,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "8b89f07625d50713",
-   "seam": 0.81
+   "seam": 0.81,
+   "de": "pixel kunst slum elendsviertel pixelart"
   },
   {
    "id": "pixelart-0057",
@@ -5084,7 +5474,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "7cb9b049668e98d4",
-   "seam": 0.95
+   "seam": 0.95,
+   "de": "pixel kunst welt pixelart"
   },
   {
    "id": "pixelart-0058",
@@ -5097,7 +5488,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "58180b098d94e0f1",
-   "seam": 0.72
+   "seam": 0.72,
+   "de": "pixel kunst welt pixelart"
   },
   {
    "id": "pixelart-0059",
@@ -5110,7 +5502,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "d435758c9c5173d4",
-   "seam": 0.94
+   "seam": 0.94,
+   "de": "pixel kunst welt pixelart"
   },
   {
    "id": "pixelart-0060",
@@ -5123,7 +5516,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "f1586e6f9d9d9c91",
-   "seam": 1.6
+   "seam": 1.6,
+   "de": "pixel kunst welt pixelart"
   },
   {
    "id": "pixelart-0061",
@@ -5136,7 +5530,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "e0f81e66336d2ca0",
-   "seam": 1.19
+   "seam": 1.19,
+   "de": "pixel kunst welt pixelart"
   },
   {
    "id": "pixelart-0062",
@@ -5149,7 +5544,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "e098c9272e2c2d89",
-   "seam": 1.13
+   "seam": 1.13,
+   "de": "pixel kunst welt pixelart"
   },
   {
    "id": "pixelart-0063",
@@ -5162,7 +5558,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "6868b1380fc6f861",
-   "seam": 1.26
+   "seam": 1.26,
+   "de": "pixel kunst welt pixelart"
   },
   {
    "id": "pixelart-0064",
@@ -5175,7 +5572,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "85f6c84e3367f2c3",
-   "seam": 0.85
+   "seam": 0.85,
+   "de": "pixel kunst welt pixelart"
   },
   {
    "id": "pixelart-0065",
@@ -5188,7 +5586,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "4b9a3b37ae587267",
-   "seam": 1.02
+   "seam": 1.02,
+   "de": "pixel kunst welt pixelart"
   },
   {
    "id": "pixelart-0066",
@@ -5201,7 +5600,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "cef62d6a8b416e66",
-   "seam": 0.8
+   "seam": 0.8,
+   "de": "pixel kunst welt pixelart"
   },
   {
    "id": "pixelart-0067",
@@ -5214,7 +5614,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "182b5858dbdedcf8",
-   "seam": 0.38
+   "seam": 0.38,
+   "de": "süß niedlich glupschaugen kulleraugen auge pixelart figur pixel"
   },
   {
    "id": "pixelart-0068",
@@ -5227,7 +5628,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "90974e2992d3d254",
-   "seam": 1.44
+   "seam": 1.44,
+   "de": "süß niedlich glupschaugen kulleraugen auge pixelart monster pixel"
   },
   {
    "id": "pixelart-0069",
@@ -5240,7 +5642,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "6cb263330a886b2f",
-   "seam": 1.25
+   "seam": 1.25,
+   "de": "sehr detailliert süß niedlich glupschaugen kulleraugen auge pixelart pixel"
   },
   {
    "id": "plants-cacti-0001",
@@ -5253,7 +5656,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "3c1e1e276190f87c",
-   "seam": 1.24
+   "seam": 1.24,
+   "de": "kaktus pflanzen pflanze kakteen"
   },
   {
    "id": "plants-cacti-0002",
@@ -5266,7 +5670,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "c65c327c68696547",
-   "seam": 0.86
+   "seam": 0.86,
+   "de": "kaktus nah nahaufnahme raus pflanzen pflanze kakteen"
   },
   {
    "id": "plants-cacti-0003",
@@ -5279,7 +5684,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "6c32363793cac069",
-   "seam": 1.03
+   "seam": 1.03,
+   "de": "kaktus pflanzen pflanze kakteen"
   },
   {
    "id": "plants-cacti-0004",
@@ -5292,7 +5698,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "b8c898d893273af8",
-   "seam": 1.98
+   "seam": 1.98,
+   "de": "kaktus pflanzen pflanze kakteen"
   },
   {
    "id": "plants-cacti-0005",
@@ -5305,7 +5712,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "f49848033978acf4",
-   "seam": 0.6
+   "seam": 0.6,
+   "de": "kaktus pflanzen pflanze kakteen"
   },
   {
    "id": "plants-cacti-0006",
@@ -5318,7 +5726,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "c9cdece5d5b23212",
-   "seam": 0.98
+   "seam": 0.98,
+   "de": "kaktus pflanzen pflanze kakteen"
   },
   {
    "id": "plants-cacti-0007",
@@ -5331,7 +5740,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "13527272d8d9b785",
-   "seam": 1.38
+   "seam": 1.38,
+   "de": "komisch kakteen kaktus pflanzen pflanze"
   },
   {
    "id": "plants-cacti-0008",
@@ -5344,7 +5754,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "1f8d839191b4e6e7",
-   "seam": 1.21
+   "seam": 1.21,
+   "de": "komisch kakteen kaktus pflanzen pflanze"
   },
   {
    "id": "plants-cacti-0009",
@@ -5357,7 +5768,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "5998be8a95acb9cd",
-   "seam": 1.15
+   "seam": 1.15,
+   "de": "komisch kakteen kaktus pflanzen pflanze"
   },
   {
    "id": "plants-cacti-0010",
@@ -5370,7 +5782,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "66e666e3b2b498cd",
-   "seam": 0.72
+   "seam": 0.72,
+   "de": "komisch kakteen kaktus pflanzen pflanze"
   },
   {
    "id": "plants-cacti-0011",
@@ -5383,7 +5796,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "c1e9494839357979",
-   "seam": 1.15
+   "seam": 1.15,
+   "de": "komisch kakteen kaktus pflanzen pflanze"
   },
   {
    "id": "plants-cacti-0012",
@@ -5396,7 +5810,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "a666c5b135ac6d78",
-   "seam": 1.2
+   "seam": 1.2,
+   "de": "komisch kakteen kaktus pflanzen pflanze"
   },
   {
    "id": "plants-cacti-0013",
@@ -5409,7 +5824,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "1f8d4b5bdbdb9d19",
-   "seam": 0.64
+   "seam": 0.64,
+   "de": "komisch kakteen kaktus pflanzen pflanze"
   },
   {
    "id": "plants-cacti-0014",
@@ -5422,7 +5838,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "e2a69ed8cc858484",
-   "seam": 2.73
+   "seam": 2.73,
+   "de": "komisch kakteen kaktus pflanzen pflanze"
   },
   {
    "id": "plants-cacti-0015",
@@ -5435,7 +5852,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "4d6a6acc889c1dcb",
-   "seam": 0.92
+   "seam": 0.92,
+   "de": "komisch kakteen kaktus pflanzen pflanze"
   },
   {
    "id": "plants-cacti-0016",
@@ -5448,7 +5866,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "360d8eb642c06474",
-   "seam": 1.63
+   "seam": 1.63,
+   "de": "neon kaktus pflanzen pflanze kakteen"
   },
   {
    "id": "plants-cacti-0017",
@@ -5461,7 +5880,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "f0761c0e1616c2d4",
-   "seam": 0.8
+   "seam": 0.8,
+   "de": "neon kaktus pflanzen pflanze kakteen"
   },
   {
    "id": "plants-cacti-0018",
@@ -5474,7 +5894,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "b69696d65e868243",
-   "seam": 1.11
+   "seam": 1.11,
+   "de": "kakteen kaktus pflanzen pflanze"
   },
   {
    "id": "plants-cacti-0019",
@@ -5487,7 +5908,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "ea686263dd42d9cc",
-   "seam": 1.24
+   "seam": 1.24,
+   "de": "kakteen kaktus pflanzen pflanze"
   },
   {
    "id": "plants-cacti-0020",
@@ -5500,7 +5922,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "85c383c78e9f9c8d",
-   "seam": 0.68
+   "seam": 0.68,
+   "de": "kaktus pflanzen pflanze kakteen"
   },
   {
    "id": "plants-cacti-0021",
@@ -5513,7 +5936,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "88c989b9e5eca98b",
-   "seam": 1.13
+   "seam": 1.13,
+   "de": "kaktus pflanzen pflanze kakteen"
   },
   {
    "id": "plants-cacti-0022",
@@ -5526,7 +5950,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "8040c0c068484981",
-   "seam": 1.51
+   "seam": 1.51,
+   "de": "kaktus pflanzen pflanze kakteen"
   },
   {
    "id": "plants-cacti-0023",
@@ -5539,7 +5964,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "acaea797ceccce07",
-   "seam": 0.84
+   "seam": 0.84,
+   "de": "kaktus pflanzen pflanze kakteen"
   },
   {
    "id": "plants-cacti-0024",
@@ -5552,7 +5978,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "33b5b998cde5f4b2",
-   "seam": 1.33
+   "seam": 1.33,
+   "de": "kaktus pflanzen pflanze kakteen"
   },
   {
    "id": "plants-cacti-0025",
@@ -5565,7 +5992,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "687457899399d9e0",
-   "seam": 1.43
+   "seam": 1.43,
+   "de": "leuchtend kaktus pflanzen pflanze kakteen"
   },
   {
    "id": "plants-cacti-0026",
@@ -5578,7 +6006,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "b89d95260bc8c051",
-   "seam": 0.77
+   "seam": 0.77,
+   "de": "leuchtend kaktus pflanzen pflanze kakteen"
   },
   {
    "id": "plants-cacti-0027",
@@ -5591,7 +6020,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "180cc6cac381e0f8",
-   "seam": 1.06
+   "seam": 1.06,
+   "de": "leuchtend kaktus pflanzen pflanze kakteen"
   },
   {
    "id": "plants-0001",
@@ -5604,7 +6034,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "6d3c1e1b0f8de163",
-   "seam": 1.08
+   "seam": 1.08,
+   "de": "leuchtend rose pflanzen pflanze"
   },
   {
    "id": "plants-0002",
@@ -5617,7 +6048,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "1a9cf0cbce07473a",
-   "seam": 1.0
+   "seam": 1.0,
+   "de": "leuchtend rose pflanzen pflanze"
   },
   {
    "id": "plants-0003",
@@ -5630,7 +6062,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "6243d393d0f1c4ac",
-   "seam": 1.08
+   "seam": 1.08,
+   "de": "komisch kakteen kaktus pflanzen pflanze"
   },
   {
    "id": "plants-0004",
@@ -5643,7 +6076,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "58c949e164e54e4c",
-   "seam": 1.1
+   "seam": 1.1,
+   "de": "komisch pflanzenlandschaft pflanzen pflanze"
   },
   {
    "id": "plants-0005",
@@ -5656,7 +6090,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "493925656c2a5a1a",
-   "seam": 1.9
+   "seam": 1.9,
+   "de": "komisch pflanzenlandschaft pflanzen pflanze"
   },
   {
    "id": "plants-0006",
@@ -5669,7 +6104,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "0f19d2d21b39190e",
-   "seam": 1.3
+   "seam": 1.3,
+   "de": "komisch pflanzenlandschaft pflanzen pflanze"
   },
   {
    "id": "plants-0007",
@@ -5682,7 +6118,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "e2e6d13173d29cb5",
-   "seam": 0.85
+   "seam": 0.85,
+   "de": "komisch pflanzenlandschaft pflanzen pflanze"
   },
   {
    "id": "plants-lilly-0001",
@@ -5695,7 +6132,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "b09a0c1c39074793",
-   "seam": 0.93
+   "seam": 0.93,
+   "de": "komisch lilie pflanzen pflanze lilien"
   },
   {
    "id": "plants-lilly-0002",
@@ -5708,7 +6146,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "5f7757db979c9c98",
-   "seam": 0.96
+   "seam": 0.96,
+   "de": "komisch lilie pflanzen pflanze lilien"
   },
   {
    "id": "plants-lilly-0003",
@@ -5721,7 +6160,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "30ab89890999c88c",
-   "seam": 1.24
+   "seam": 1.24,
+   "de": "komisch lilie pflanzen pflanze lilien"
   },
   {
    "id": "plants-lilly-0004",
@@ -5734,7 +6174,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "2f2f2726070f6f1b",
-   "seam": 1.6
+   "seam": 1.6,
+   "de": "komisch lilie pflanzen pflanze lilien"
   },
   {
    "id": "plants-lilly-0005",
@@ -5747,7 +6188,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "78cfcf5a1ab8d9d8",
-   "seam": 1.56
+   "seam": 1.56,
+   "de": "komisch lilie pflanzen pflanze lilien"
   },
   {
    "id": "plants-lilly-0006",
@@ -5760,7 +6202,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "0f0f9f9e5874c64f",
-   "seam": 2.54
+   "seam": 2.54,
+   "de": "komisch lilie pflanzen pflanze lilien"
   },
   {
    "id": "plants-lilly-0007",
@@ -5773,7 +6216,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "a4989bca686c6424",
-   "seam": 1.09
+   "seam": 1.09,
+   "de": "komisch lilie pflanzen pflanze lilien"
   },
   {
    "id": "plants-lilly-0008",
@@ -5786,7 +6230,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "54c09c964f819159",
-   "seam": 0.65
+   "seam": 0.65,
+   "de": "komisch lilie pflanzen pflanze lilien"
   },
   {
    "id": "plants-lilly-0009",
@@ -5799,7 +6244,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "2c39118880f03038",
-   "seam": 1.63
+   "seam": 1.63,
+   "de": "komisch lilie pflanzen pflanze lilien"
   },
   {
    "id": "plants-lilly-0010",
@@ -5812,7 +6258,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "98d94e4eede871d4",
-   "seam": 1.42
+   "seam": 1.42,
+   "de": "komisch lilie pflanzen pflanze lilien"
   },
   {
    "id": "plants-lilly-0011",
@@ -5825,7 +6272,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "7d4acd079b8f2738",
-   "seam": 0.72
+   "seam": 0.72,
+   "de": "komisch lilie pflanzen pflanze lilien"
   },
   {
    "id": "plants-lilly-0012",
@@ -5838,7 +6286,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "369e93a5a7071612",
-   "seam": 0.52
+   "seam": 0.52,
+   "de": "komisch lilie pflanzen pflanze lilien"
   },
   {
    "id": "plants-lilly-0013",
@@ -5851,7 +6300,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "d6b692c0e3e0e1f1",
-   "seam": 1.85
+   "seam": 1.85,
+   "de": "komisch lilie pflanzen pflanze lilien"
   },
   {
    "id": "plants-lilly-0014",
@@ -5864,7 +6314,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "b7b6063717161686",
-   "seam": 0.77
+   "seam": 0.77,
+   "de": "komisch lilie pflanzen pflanze lilien"
   },
   {
    "id": "plants-lilly-0015",
@@ -5877,7 +6328,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "303a3d329190c268",
-   "seam": 2.18
+   "seam": 2.18,
+   "de": "komisch lilie pflanzen pflanze lilien"
   },
   {
    "id": "plants-lilly-0016",
@@ -5890,7 +6342,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "038b8f67e335b607",
-   "seam": 0.56
+   "seam": 0.56,
+   "de": "komisch lilie pflanzen pflanze lilien"
   },
   {
    "id": "plants-lilly-0017",
@@ -5903,7 +6356,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "f2ece5f193153930",
-   "seam": 0.85
+   "seam": 0.85,
+   "de": "komisch lilie raus pflanzen pflanze lilien"
   },
   {
    "id": "plants-lilly-0018",
@@ -5916,7 +6370,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "38181c0c2c81d919",
-   "seam": 0.62
+   "seam": 0.62,
+   "de": "komisch lilie raus pflanzen pflanze lilien"
   },
   {
    "id": "plants-lilly-0019",
@@ -5929,7 +6384,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "19181b8f4d91c078",
-   "seam": 1.15
+   "seam": 1.15,
+   "de": "lilie pflanzen pflanze lilien"
   },
   {
    "id": "plants-lilly-0020",
@@ -5942,7 +6398,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "b1b0d64f0e24c5d5",
-   "seam": 1.11
+   "seam": 1.11,
+   "de": "lilie pflanzen pflanze lilien"
   },
   {
    "id": "plants-lilly-0021",
@@ -5955,7 +6412,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "685ed617197c7879",
-   "seam": 1.25
+   "seam": 1.25,
+   "de": "lilie pflanzen pflanze lilien"
   },
   {
    "id": "plants-lilly-0022",
@@ -5968,7 +6426,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "f0f95213c741d064",
-   "seam": 1.35
+   "seam": 1.35,
+   "de": "neon lilie pflanzen pflanze lilien"
   },
   {
    "id": "plants-lilly-0023",
@@ -5981,7 +6440,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "682c16458b86e4d8",
-   "seam": 1.16
+   "seam": 1.16,
+   "de": "neon lilie pflanzen pflanze lilien"
   },
   {
    "id": "plants-lilly-0024",
@@ -5994,7 +6454,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "80b43d1c0e49c9d1",
-   "seam": 0.65
+   "seam": 0.65,
+   "de": "neon lilien lilie pflanzen pflanze"
   },
   {
    "id": "plants-lilly-0025",
@@ -6007,7 +6468,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "6c6a4b054fa2a1e1",
-   "seam": 0.62
+   "seam": 0.62,
+   "de": "neon lilien lilie pflanzen pflanze"
   },
   {
    "id": "plants-lilly-0026",
@@ -6020,7 +6482,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "9a2a265683c464c8",
-   "seam": 1.38
+   "seam": 1.38,
+   "de": "einblatt lilie pflanzen pflanze lilien"
   },
   {
    "id": "plants-lilly-0027",
@@ -6033,7 +6496,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "6643abe6c673b9d1",
-   "seam": 0.97
+   "seam": 0.97,
+   "de": "einblatt lilie pflanzen pflanze lilien"
   },
   {
    "id": "plants-lilly-0028",
@@ -6046,7 +6510,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "4b6f6f438f9397e5",
-   "seam": 0.52
+   "seam": 0.52,
+   "de": "einblatt lilie pflanzen pflanze lilien"
   },
   {
    "id": "plants-lilly-0029",
@@ -6059,7 +6524,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "7878aa9811cb6a60",
-   "seam": 1.04
+   "seam": 1.04,
+   "de": "einblatt lilie pflanzen pflanze lilien"
   },
   {
    "id": "plants-lilly-0030",
@@ -6072,7 +6538,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "b8d0f0f8f8f8da58",
-   "seam": 0.48
+   "seam": 0.48,
+   "de": "einblatt lilie pflanzen pflanze lilien"
   },
   {
    "id": "plants-lilly-0031",
@@ -6085,7 +6552,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "cece8ec4c4d4d8d8",
-   "seam": 1.26
+   "seam": 1.26,
+   "de": "einblatt lilie pflanzen pflanze lilien"
   },
   {
    "id": "plants-lilly-0032",
@@ -6098,7 +6566,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "070643c3c1c50707",
-   "seam": 1.75
+   "seam": 1.75,
+   "de": "einblatt lilie pflanzen pflanze lilien"
   },
   {
    "id": "plants-lilly-0033",
@@ -6111,7 +6580,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "82b2f2c44c666667",
-   "seam": 0.55
+   "seam": 0.55,
+   "de": "einblatt lilie pflanzen pflanze lilien"
   },
   {
    "id": "plants-lilly-0034",
@@ -6124,7 +6594,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "9e87439a16161606",
-   "seam": 0.93
+   "seam": 0.93,
+   "de": "einblatt lilie pflanzen pflanze lilien"
   },
   {
    "id": "plants-lilly-0035",
@@ -6137,7 +6608,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "8070590b9c90e8e4",
-   "seam": 1.17
+   "seam": 1.17,
+   "de": "einblatt lilie pflanzen pflanze lilien"
   },
   {
    "id": "plants-lilly-0036",
@@ -6150,7 +6622,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "83c6e7c7c2818703",
-   "seam": 0.97
+   "seam": 0.97,
+   "de": "einblatt lilie pflanzen pflanze lilien"
   },
   {
    "id": "plants-lilly-0037",
@@ -6163,7 +6636,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "4d0707379707075b",
-   "seam": 2.2
+   "seam": 2.2,
+   "de": "einblatt lilie pflanzen pflanze lilien"
   },
   {
    "id": "plants-lilly-0038",
@@ -6176,7 +6650,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "64262626042d2999",
-   "seam": 0.59
+   "seam": 0.59,
+   "de": "einblatt lilie pflanzen pflanze lilien"
   },
   {
    "id": "plants-lilly-0039",
@@ -6189,7 +6664,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "5ecb522e1b733c2c",
-   "seam": 1.52
+   "seam": 1.52,
+   "de": "einblatt lilie pflanzen pflanze lilien"
   },
   {
    "id": "plants-lilly-0040",
@@ -6202,7 +6678,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "7295c4a0999c98be",
-   "seam": 0.82
+   "seam": 0.82,
+   "de": "lilie pflanzen pflanze lilien"
   },
   {
    "id": "plants-lilly-0041",
@@ -6215,7 +6692,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "49c48ecc66a3f352",
-   "seam": 0.87
+   "seam": 0.87,
+   "de": "vintage lilien lilie pflanzen pflanze"
   },
   {
    "id": "plants-lilly-0042",
@@ -6228,7 +6706,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "f1e1c1a68cecb8f1",
-   "seam": 0.87
+   "seam": 0.87,
+   "de": "vintage lilien lilie pflanzen pflanze"
   },
   {
    "id": "plants-lilly-0043",
@@ -6241,7 +6720,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "26666b898da33b2e",
-   "seam": 1.3
+   "seam": 1.3,
+   "de": "vintage lilien lilie pflanzen pflanze"
   },
   {
    "id": "plants-monstera-0001",
@@ -6254,7 +6734,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "5b6b736f276363e3",
-   "seam": 1.11
+   "seam": 1.11,
+   "de": "monstera fensterblatt pflanzen pflanze"
   },
   {
    "id": "plants-monstera-0002",
@@ -6267,7 +6748,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "68dc9ccc6c683170",
-   "seam": 1.34
+   "seam": 1.34,
+   "de": "monstera fensterblatt pflanzen pflanze"
   },
   {
    "id": "plants-monstera-0003",
@@ -6280,7 +6762,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "f6c6863647c41c14",
-   "seam": 0.68
+   "seam": 0.68,
+   "de": "monstera fensterblatt pflanzen pflanze"
   },
   {
    "id": "plants-monstera-0004",
@@ -6293,7 +6776,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "983a395713d8c48c",
-   "seam": 0.98
+   "seam": 0.98,
+   "de": "monstera fensterblatt dunkel pflanzen pflanze"
   },
   {
    "id": "plants-monstera-0005",
@@ -6306,7 +6790,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "d65b5b3d3363c1d8",
-   "seam": 0.73
+   "seam": 0.73,
+   "de": "monstera fensterblatt dunkel pflanzen pflanze"
   },
   {
    "id": "plants-monstera-0006",
@@ -6319,7 +6804,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "e4d83c2fcbc26662",
-   "seam": 0.61
+   "seam": 0.61,
+   "de": "monstera fensterblatt dunkel pflanzen pflanze"
   },
   {
    "id": "plants-monstera-0007",
@@ -6332,7 +6818,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "cdc96b713a3c0fcf",
-   "seam": 0.79
+   "seam": 0.79,
+   "de": "monstera fensterblatt erde pflanzen pflanze"
   },
   {
    "id": "plants-monstera-0008",
@@ -6345,7 +6832,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "1c4dc594b87c1e1b",
-   "seam": 0.6
+   "seam": 0.6,
+   "de": "monstera fensterblatt erde pflanzen pflanze"
   },
   {
    "id": "plants-monstera-0009",
@@ -6358,7 +6846,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "4561e1454d598909",
-   "seam": 0.69
+   "seam": 0.69,
+   "de": "monstera fensterblatt erde pflanzen pflanze"
   },
   {
    "id": "plants-monstera-0010",
@@ -6371,7 +6860,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "1d8cccc9c94c9c18",
-   "seam": 0.35
+   "seam": 0.35,
+   "de": "monstera fensterblatt gezeichnet pflanzen pflanze"
   },
   {
    "id": "plants-monstera-0011",
@@ -6384,7 +6874,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "7efcc1a1b4644c49",
-   "seam": 0.55
+   "seam": 0.55,
+   "de": "monstera fensterblatt gezeichnet pflanzen pflanze"
   },
   {
    "id": "plants-monstera-0012",
@@ -6397,7 +6888,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "6133b8e9dce4c661",
-   "seam": 2.59
+   "seam": 2.59,
+   "de": "neon monstera fensterblatt pflanzen pflanze"
   },
   {
    "id": "plants-monstera-0013",
@@ -6410,7 +6902,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "4647564e1e1a1347",
-   "seam": 0.71
+   "seam": 0.71,
+   "de": "monstera fensterblatt pflanze pflanzen"
   },
   {
    "id": "plants-monstera-0014",
@@ -6423,7 +6916,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "a219113366e6c6a2",
-   "seam": 1.62
+   "seam": 1.62,
+   "de": "monstera fensterblatt pflanze pflanzen"
   },
   {
    "id": "plants-monstera-0015",
@@ -6436,7 +6930,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "a6c9c91199d49149",
-   "seam": 1.21
+   "seam": 1.21,
+   "de": "monstera fensterblatt pflanze pflanzen"
   },
   {
    "id": "plants-monstera-0016",
@@ -6449,7 +6944,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "0b0b81c494483296",
-   "seam": 1.95
+   "seam": 1.95,
+   "de": "monstera fensterblatt pflanze pflanzen"
   },
   {
    "id": "plants-monstera-0017",
@@ -6462,7 +6958,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "363b0c163e5cbcb8",
-   "seam": 0.93
+   "seam": 0.93,
+   "de": "monstera fensterblatt pflanze pflanzen"
   },
   {
    "id": "plants-monstera-0018",
@@ -6475,7 +6972,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "b1c1d1c8ec8d2da9",
-   "seam": 1.28
+   "seam": 1.28,
+   "de": "monstera fensterblatt pflanze pflanzen"
   },
   {
    "id": "plants-monstera-0019",
@@ -6488,7 +6986,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "de7861719bd3e3e3",
-   "seam": 0.48
+   "seam": 0.48,
+   "de": "monstera fensterblatt pflanze pflanzen"
   },
   {
    "id": "plants-monstera-0020",
@@ -6501,7 +7000,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "a141c9055f1f9881",
-   "seam": 1.25
+   "seam": 1.25,
+   "de": "monstera fensterblatt pflanze pflanzen"
   },
   {
    "id": "plants-monstera-0021",
@@ -6514,7 +7014,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "81b2e4490f276785",
-   "seam": 0.38
+   "seam": 0.38,
+   "de": "monstera fensterblatt pflanze pflanzen"
   },
   {
    "id": "plants-monstera-0022",
@@ -6527,7 +7028,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "5761d39b38399b9b",
-   "seam": 1.9
+   "seam": 1.9,
+   "de": "monstera fensterblatt pflanze pflanzen"
   },
   {
    "id": "plants-monstera-0023",
@@ -6540,7 +7042,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "6c6ded507af8b95c",
-   "seam": 0.82
+   "seam": 0.82,
+   "de": "monstera fensterblatt pflanze pflanzen"
   },
   {
    "id": "plants-monstera-0024",
@@ -6553,7 +7056,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "83c190cc86c68696",
-   "seam": 1.9
+   "seam": 1.9,
+   "de": "monstera fensterblatt pflanze pflanzen"
   },
   {
    "id": "plants-monstera-0025",
@@ -6566,7 +7070,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "c71716712f662666",
-   "seam": 0.99
+   "seam": 0.99,
+   "de": "monstera fensterblatt pflanze pflanzen"
   },
   {
    "id": "plants-monstera-0026",
@@ -6579,7 +7084,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "9929f298185f1f9f",
-   "seam": 0.9
+   "seam": 0.9,
+   "de": "monstera fensterblatt pflanze pflanzen"
   },
   {
    "id": "plants-monstera-0027",
@@ -6592,7 +7098,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "3671f1f074620a9c",
-   "seam": 0.51
+   "seam": 0.51,
+   "de": "monstera fensterblatt pflanze pflanzen"
   },
   {
    "id": "plants-monstera-0028",
@@ -6605,7 +7112,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "1f17953939191c1e",
-   "seam": 0.43
+   "seam": 0.43,
+   "de": "monstera fensterblatt pflanze pflanzen"
   },
   {
    "id": "plants-monstera-0029",
@@ -6618,7 +7126,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "64e6c6990682c691",
-   "seam": 2.09
+   "seam": 2.09,
+   "de": "leuchtend monstera fensterblatt pflanzen pflanze"
   },
   {
    "id": "plants-monstera-0030",
@@ -6631,7 +7140,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "584c0e9d0d079978",
-   "seam": 1.08
+   "seam": 1.08,
+   "de": "leuchtend monstera fensterblatt pflanzen pflanze"
   },
   {
    "id": "plants-monstera-0031",
@@ -6644,7 +7154,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "b21a3c746686c2a6",
-   "seam": 1.24
+   "seam": 1.24,
+   "de": "leuchtend monstera fensterblatt pflanzen pflanze"
   },
   {
    "id": "plants-0008",
@@ -6657,7 +7168,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "d65e1c8da292a1c1",
-   "seam": 0.78
+   "seam": 0.78,
+   "de": "neon pflanze pflanzen"
   },
   {
    "id": "plants-0009",
@@ -6670,7 +7182,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "5878362e2466e0d1",
-   "seam": 0.74
+   "seam": 0.74,
+   "de": "neon pflanze pflanzen"
   },
   {
    "id": "plants-0010",
@@ -6683,7 +7196,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "563f19981c8c7471",
-   "seam": 1.08
+   "seam": 1.08,
+   "de": "neon pflanze pflanzen"
   },
   {
    "id": "plants-roses-0001",
@@ -6696,7 +7210,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "9b5b727273b4d838",
-   "seam": 1.59
+   "seam": 1.59,
+   "de": "komisch rosen rose pflanzen pflanze"
   },
   {
    "id": "plants-roses-0002",
@@ -6709,7 +7224,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "3e9e96c8c9d99c1d",
-   "seam": 1.12
+   "seam": 1.12,
+   "de": "neon rosen rose pflanzen pflanze"
   },
   {
    "id": "plants-roses-0003",
@@ -6722,7 +7238,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "f8d83e9fcf86c260",
-   "seam": 0.69
+   "seam": 0.69,
+   "de": "neon rosen rose pflanzen pflanze"
   },
   {
    "id": "plants-roses-0004",
@@ -6735,7 +7252,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "77236a6e8c999831",
-   "seam": 0.84
+   "seam": 0.84,
+   "de": "neon rosen rose raus pflanzen pflanze"
   },
   {
    "id": "plants-roses-0005",
@@ -6748,7 +7266,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "d84e1e0923f0e0b4",
-   "seam": 0.68
+   "seam": 0.68,
+   "de": "neon rosen rose pflanzen pflanze"
   },
   {
    "id": "plants-roses-0006",
@@ -6761,7 +7280,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "273c1d0f8e51e5e4",
-   "seam": 0.36
+   "seam": 0.36,
+   "de": "neon rosen rose pflanzen pflanze"
   },
   {
    "id": "plants-roses-0007",
@@ -6774,7 +7294,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "3636862323c0e474",
-   "seam": 1.18
+   "seam": 1.18,
+   "de": "neon rosen rose pflanzen pflanze"
   },
   {
    "id": "plants-roses-0008",
@@ -6787,7 +7308,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "303c8e86a3a58431",
-   "seam": 0.83
+   "seam": 0.83,
+   "de": "neon rosen rose pflanzen pflanze"
   },
   {
    "id": "plants-roses-0009",
@@ -6800,7 +7322,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "727668656d68f0f8",
-   "seam": 0.52
+   "seam": 0.52,
+   "de": "neon rosen rose raus pflanzen pflanze"
   },
   {
    "id": "plants-roses-0010",
@@ -6813,7 +7336,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "6c1c164f61a0ec6d",
-   "seam": 1.06
+   "seam": 1.06,
+   "de": "rosen rose dunkel pflanzen pflanze"
   },
   {
    "id": "plants-roses-0011",
@@ -6826,7 +7350,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "765c0c2f8edb7c3c",
-   "seam": 0.7
+   "seam": 0.7,
+   "de": "rosen rose gezeichnet pflanzen pflanze"
   },
   {
    "id": "plants-roses-0012",
@@ -6839,7 +7364,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "a4881c8c9cb86cc6",
-   "seam": 0.92
+   "seam": 0.92,
+   "de": "rosen rose gezeichnet pflanzen pflanze"
   },
   {
    "id": "plants-roses-0013",
@@ -6852,7 +7378,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "4c8cc643c3e33219",
-   "seam": 0.89
+   "seam": 0.89,
+   "de": "rosen rose regen regnerisch pflanzen pflanze"
   },
   {
    "id": "plants-roses-0014",
@@ -6865,7 +7392,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "6c6a668693c9a165",
-   "seam": 0.81
+   "seam": 0.81,
+   "de": "rosen rose regen regnerisch pflanzen pflanze"
   },
   {
    "id": "plants-roses-0015",
@@ -6878,7 +7406,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "c6636e6d6df8868e",
-   "seam": 1.79
+   "seam": 1.79,
+   "de": "rosen rose vintage pflanzen pflanze"
   },
   {
    "id": "plants-roses-0016",
@@ -6891,7 +7420,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "cac8e4bc26676399",
-   "seam": 1.0
+   "seam": 1.0,
+   "de": "rosen rose vintage pflanzen pflanze"
   },
   {
    "id": "plants-roses-0017",
@@ -6904,7 +7434,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "944c598d8496e233",
-   "seam": 0.94
+   "seam": 0.94,
+   "de": "rosen rose vintage pflanzen pflanze"
   },
   {
    "id": "plants-roses-0018",
@@ -6917,7 +7448,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "4351393c64b58317",
-   "seam": 1.11
+   "seam": 1.11,
+   "de": "rosen rose vintage pflanzen pflanze"
   },
   {
    "id": "plants-roses-0019",
@@ -6930,7 +7462,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "4cb4e74be9e26453",
-   "seam": 1.17
+   "seam": 1.17,
+   "de": "rosen rose vintage pflanzen pflanze"
   },
   {
    "id": "plants-roses-0020",
@@ -6943,7 +7476,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "c4669b9896d3d6c0",
-   "seam": 0.86
+   "seam": 0.86,
+   "de": "rosen rose vintage pflanzen pflanze"
   },
   {
    "id": "plants-roses-0021",
@@ -6956,7 +7490,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "3525cdd6e6969b13",
-   "seam": 0.92
+   "seam": 0.92,
+   "de": "rosen rose vintage pflanzen pflanze"
   },
   {
    "id": "plants-roses-0022",
@@ -6969,7 +7504,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "8a9a5e997061939a",
-   "seam": 1.35
+   "seam": 1.35,
+   "de": "rosen rose vintage pflanzen pflanze"
   },
   {
    "id": "plants-roses-0023",
@@ -6982,7 +7518,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "9f4cf93567253133",
-   "seam": 1.2
+   "seam": 1.2,
+   "de": "rosen rose vintage pflanzen pflanze"
   },
   {
    "id": "plants-roses-0024",
@@ -6995,7 +7532,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "f4d99b9e8cd8d979",
-   "seam": 1.36
+   "seam": 1.36,
+   "de": "rosen rose vintage pflanzen pflanze"
   },
   {
    "id": "plants-roses-0025",
@@ -7008,7 +7546,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "eda696dcfc9416b1",
-   "seam": 1.22
+   "seam": 1.22,
+   "de": "rosen rose vintage pflanzen pflanze"
   },
   {
    "id": "plants-roses-0026",
@@ -7021,7 +7560,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "6c6c66070185034f",
-   "seam": 1.03
+   "seam": 1.03,
+   "de": "leuchtend rose pflanzen pflanze rosen"
   },
   {
    "id": "plants-roses-0027",
@@ -7034,7 +7574,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "a42433337266878b",
-   "seam": 1.0
+   "seam": 1.0,
+   "de": "leuchtend rose pflanzen pflanze rosen"
   },
   {
    "id": "plants-roses-0028",
@@ -7047,7 +7588,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "190cccd4c6c49393",
-   "seam": 1.42
+   "seam": 1.42,
+   "de": "leuchtend rose pflanzen pflanze rosen"
   },
   {
    "id": "plants-roses-0029",
@@ -7060,7 +7602,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "1e1c9e87c5f07237",
-   "seam": 0.85
+   "seam": 0.85,
+   "de": "leuchtend rose pflanzen pflanze rosen"
   },
   {
    "id": "plants-roses-0030",
@@ -7073,7 +7616,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "e94b6766e4a01159",
-   "seam": 0.96
+   "seam": 0.96,
+   "de": "rosen rose pflanzen pflanze"
   },
   {
    "id": "plants-roses-0031",
@@ -7086,7 +7630,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "b6cc9499bca6e6a7",
-   "seam": 1.25
+   "seam": 1.25,
+   "de": "rosen rose pflanzen pflanze"
   },
   {
    "id": "plants-spider-plant-0001",
@@ -7099,7 +7644,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "e2d27161283191c1",
-   "seam": 1.31
+   "seam": 1.31,
+   "de": "grünlilie pflanzen pflanze"
   },
   {
    "id": "plants-spider-plant-0002",
@@ -7112,7 +7658,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "e1a1951f07c4c1c1",
-   "seam": 0.65
+   "seam": 0.65,
+   "de": "neon grünlilie pflanzen pflanze"
   },
   {
    "id": "plants-spider-plant-0003",
@@ -7125,7 +7672,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "e879f6bb2383c1e0",
-   "seam": 1.24
+   "seam": 1.24,
+   "de": "grünlilie pflanze neon pflanzen"
   },
   {
    "id": "plants-spider-plant-0004",
@@ -7138,7 +7686,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "1f9787cec7c30707",
-   "seam": 0.26
+   "seam": 0.26,
+   "de": "grünlilie pflanzen pflanze"
   },
   {
    "id": "plants-spider-plant-0005",
@@ -7151,7 +7700,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "d3d1cce46431e1c1",
-   "seam": 0.66
+   "seam": 0.66,
+   "de": "grünlilie pflanzen pflanze"
   },
   {
    "id": "plants-spider-plant-0006",
@@ -7164,7 +7714,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "2d0d2c7939313c1e",
-   "seam": 0.88
+   "seam": 0.88,
+   "de": "grünlilie pflanzen pflanze"
   },
   {
    "id": "plants-spider-plant-0007",
@@ -7177,7 +7728,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "f0b130191346c5e6",
-   "seam": 0.9
+   "seam": 0.9,
+   "de": "grünlilie dunkel pflanzen pflanze"
   },
   {
    "id": "plants-spider-plant-0008",
@@ -7190,7 +7742,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "78383a189b8f8bc0",
-   "seam": 1.37
+   "seam": 1.37,
+   "de": "grünlilie dunkel pflanzen pflanze"
   },
   {
    "id": "plants-spider-plant-0009",
@@ -7203,7 +7756,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "9c9a340693d1e0d0",
-   "seam": 2.02
+   "seam": 2.02,
+   "de": "grünlilie dunkel pflanzen pflanze"
   },
   {
    "id": "plants-spider-plant-0010",
@@ -7216,7 +7770,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "e0c40e0c4f4cc5e4",
-   "seam": 0.99
+   "seam": 0.99,
+   "de": "grünlilie neon pflanzen pflanze"
   },
   {
    "id": "plants-spider-plant-0011",
@@ -7229,7 +7784,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "b1b91f0f27831151",
-   "seam": 1.11
+   "seam": 1.11,
+   "de": "grünlilie neon pflanzen pflanze"
   },
   {
    "id": "plants-spider-plant-0012",
@@ -7242,7 +7798,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "3a2f1f1a5a5bdb1a",
-   "seam": 1.85
+   "seam": 1.85,
+   "de": "grünlilie raus pflanzen pflanze"
   },
   {
    "id": "plants-spider-plant-0013",
@@ -7255,7 +7812,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "ee763e3bb899b78c",
-   "seam": 2.16
+   "seam": 2.16,
+   "de": "leuchtend grünlilie pflanze pflanzen"
   },
   {
    "id": "plants-spider-plant-0014",
@@ -7268,7 +7826,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "e0f4d8581e0491d0",
-   "seam": 1.7
+   "seam": 1.7,
+   "de": "leuchtend grünlilie pflanze pflanzen"
   },
   {
    "id": "plants-spider-plant-0015",
@@ -7281,7 +7840,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "707428a18345c1c8",
-   "seam": 0.87
+   "seam": 0.87,
+   "de": "leuchtend grünlilie pflanze pflanzen"
   },
   {
    "id": "plants-spider-plant-0016",
@@ -7294,7 +7854,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "f4e4d69b1e34e4f0",
-   "seam": 1.13
+   "seam": 1.13,
+   "de": "leuchtend grünlilie pflanze pflanzen"
   },
   {
    "id": "plants-spider-plant-0017",
@@ -7307,7 +7868,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "b91f3e39191959b3",
-   "seam": 1.01
+   "seam": 1.01,
+   "de": "grünlilie pflanze pflanzen"
   },
   {
    "id": "plants-spider-plant-0018",
@@ -7320,7 +7882,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "6c381d1d3c3c7cf8",
-   "seam": 0.51
+   "seam": 0.51,
+   "de": "grünlilie pflanze pflanzen"
   },
   {
    "id": "plants-spider-plant-0019",
@@ -7333,7 +7896,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "d8c8e0e870787838",
-   "seam": 0.56
+   "seam": 0.56,
+   "de": "grünlilie pflanze pflanzen"
   },
   {
    "id": "plants-0011",
@@ -7346,7 +7910,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "f65e1b13e174b8fc",
-   "seam": 0.53
+   "seam": 0.53,
+   "de": "einblatt lilie pflanzen pflanze"
   },
   {
    "id": "plants-0012",
@@ -7359,7 +7924,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "c9dc32ae67272723",
-   "seam": 0.78
+   "seam": 0.78,
+   "de": "flasche garten pflanzen pflanze"
   },
   {
    "id": "plants-0013",
@@ -7372,7 +7938,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "e2607c3c1e1e928e",
-   "seam": 1.12
+   "seam": 1.12,
+   "de": "flasche garten pflanzen pflanze"
   },
   {
    "id": "plants-0014",
@@ -7385,7 +7952,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "85cce672d4b59487",
-   "seam": 0.52
+   "seam": 0.52,
+   "de": "flasche garten pflanzen pflanze"
   },
   {
    "id": "plants-0015",
@@ -7398,7 +7966,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "b6ded8262f385c9c",
-   "seam": 0.85
+   "seam": 0.85,
+   "de": "flasche garten pflanzen pflanze"
   },
   {
    "id": "plants-0016",
@@ -7411,7 +7980,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "c0ce96b724e4e4e0",
-   "seam": 0.27
+   "seam": 0.27,
+   "de": "leuchtend kaktus pflanzen pflanze"
   },
   {
    "id": "plants-0017",
@@ -7424,7 +7994,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "8496938181880c04",
-   "seam": 2.24
+   "seam": 2.24,
+   "de": "leuchtend kaktus pflanzen pflanze"
   },
   {
    "id": "plants-0018",
@@ -7437,7 +8008,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "61713992c4ed6672",
-   "seam": 0.93
+   "seam": 0.93,
+   "de": "leuchtend kaktus pflanzen pflanze"
   },
   {
    "id": "plants-0019",
@@ -7450,7 +8022,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "cce6129a42c3d3c9",
-   "seam": 1.36
+   "seam": 1.36,
+   "de": "leuchtend kaktus pflanzen pflanze"
   },
   {
    "id": "plants-0020",
@@ -7463,7 +8036,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "72347fcb8765c364",
-   "seam": 0.34
+   "seam": 0.34,
+   "de": "leuchtend lilie pflanzen pflanze"
   },
   {
    "id": "plants-0021",
@@ -7476,7 +8050,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "e0f03c1e1b07e0f0",
-   "seam": 0.8
+   "seam": 0.8,
+   "de": "leuchtend lilie pflanzen pflanze"
   },
   {
    "id": "plants-0022",
@@ -7489,7 +8064,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "c7ad29db4f769491",
-   "seam": 1.02
+   "seam": 1.02,
+   "de": "leuchtend lilie pflanzen pflanze"
   },
   {
    "id": "plants-0023",
@@ -7502,7 +8078,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "eb6169a4c2da4367",
-   "seam": 1.1
+   "seam": 1.1,
+   "de": "leuchtend lilie pflanzen pflanze"
   },
   {
    "id": "plants-0024",
@@ -7515,7 +8092,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "000c0c041c18d173",
-   "seam": 17.43
+   "seam": 17.43,
+   "de": "leuchtend monstera fensterblatt pflanzen pflanze"
   },
   {
    "id": "plants-0025",
@@ -7528,7 +8106,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "262630b4c04c4889",
-   "seam": 26.08
+   "seam": 26.08,
+   "de": "leuchtend monstera fensterblatt pflanzen pflanze"
   },
   {
    "id": "plants-0026",
@@ -7541,7 +8120,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "e7d39bcb079746a7",
-   "seam": 13.62
+   "seam": 13.62,
+   "de": "leuchtend monstera fensterblatt pflanzen pflanze"
   },
   {
    "id": "plants-0027",
@@ -7554,7 +8134,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "c1353c193598c1c3",
-   "seam": 1.05
+   "seam": 1.05,
+   "de": "leuchtend rose pflanzen pflanze"
   },
   {
    "id": "plants-0028",
@@ -7567,7 +8148,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "3c7cde272798c169",
-   "seam": 1.8
+   "seam": 1.8,
+   "de": "leuchtend rose pflanzen pflanze"
   },
   {
    "id": "plants-0029",
@@ -7580,7 +8162,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "ccccd3257371d9d1",
-   "seam": 0.73
+   "seam": 0.73,
+   "de": "rosen rose pflanzen pflanze"
   },
   {
    "id": "plants-0030",
@@ -7593,7 +8176,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "7572d69fb3d6e6e0",
-   "seam": 0.67
+   "seam": 0.67,
+   "de": "rosen rose pflanzen pflanze"
   },
   {
    "id": "plants-0031",
@@ -7606,7 +8190,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "1dcc569b8fc99991",
-   "seam": 1.12
+   "seam": 1.12,
+   "de": "rosen rose pflanzen pflanze"
   },
   {
    "id": "plants-0032",
@@ -7619,7 +8204,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "3619c9d9d6c6cf39",
-   "seam": 0.92
+   "seam": 0.92,
+   "de": "rosen rose pflanzen pflanze"
   },
   {
    "id": "plants-0033",
@@ -7632,7 +8218,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "cedbd9a4acdbf1c9",
-   "seam": 1.23
+   "seam": 1.23,
+   "de": "rosen rose pflanzen pflanze"
   },
   {
    "id": "plants-0034",
@@ -7645,7 +8232,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "2364597978683523",
-   "seam": 1.06
+   "seam": 1.06,
+   "de": "grünlilie pflanze pflanzen"
   },
   {
    "id": "plants-0035",
@@ -7658,7 +8246,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "3161706068e06061",
-   "seam": 1.43
+   "seam": 1.43,
+   "de": "grünlilie pflanze pflanzen"
   },
   {
    "id": "plants-0036",
@@ -7671,7 +8260,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "9393dcf87878383b",
-   "seam": 1.85
+   "seam": 1.85,
+   "de": "grünlilie pflanze pflanzen"
   },
   {
    "id": "plants-0037",
@@ -7684,7 +8274,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "1f0da172303c1c1e",
-   "seam": 1.53
+   "seam": 1.53,
+   "de": "grünlilie pflanze pflanzen"
   },
   {
    "id": "plants-0038",
@@ -7697,7 +8288,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "66e4bb696168fcf6",
-   "seam": 1.03
+   "seam": 1.03,
+   "de": "grünlilie pflanze pflanzen"
   },
   {
    "id": "plants-0039",
@@ -7710,7 +8302,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "8d95950b8e868f0f",
-   "seam": 0.34
+   "seam": 0.34,
+   "de": "grünlilie pflanze pflanzen"
   },
   {
    "id": "plants-0040",
@@ -7723,7 +8316,8 @@
    "w": 1024,
    "h": 1024,
    "hash": "a5c1e8fc7e3b1e47",
-   "seam": 1.26
+   "seam": 1.26,
+   "de": "grünlilie pflanze pflanzen"
   }
  ]
 }
