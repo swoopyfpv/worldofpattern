@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta name="description" content="Nahtlose KI-Musterkacheln aus 2023, frei zur Verwendung. Mischen, blättern, exportieren.">
+<meta name="description" content="Nahtlose KI-Musterkacheln aus 2023, frei zur Verwendung. Shuffle, blättern, exportieren.">
 <link rel="icon" href="logo.png">
 <style>html,body{margin:0}</style>
 <title>worldofpattern</title>
@@ -94,10 +94,10 @@ select{background:var(--chip);border:1px solid var(--line);border-radius:8px;pad
   <div class="controls">
     <button class="btn" id="back" title="Zurück zur vorherigen Kachel (B)" disabled>↶ zurück</button>
     <button class="btn" id="prev" title="Vorherige in dieser Kategorie (←)">←</button>
-    <button class="btn primary" id="shuffle" title="Mischen (Leertaste)">mischen</button>
+    <button class="btn primary" id="shuffle" title="Shuffle (Leertaste)">shuffle</button>
     <button class="btn" id="next" title="Nächste in dieser Kategorie (→)">→</button>
-    <label class="scale" for="size">Kachel <input type="range" id="size" min="80" max="800" step="10" value="260"><span id="sizeVal">260px</span></label>
-    <button class="btn" id="seamBtn" aria-pressed="false" title="Kachelränder anzeigen (G)">Nähte</button>
+    <label class="scale" for="size">Kachel <input type="range" id="size" min="80" max="800" step="10" value="400"><span id="sizeVal">400px</span></label>
+    <button class="btn" id="seamBtn" aria-pressed="false" title="Kachelränder anzeigen (G)">seam</button>
     <button class="btn" id="exportBtn" title="Aktuelle Ansicht als PNG exportieren (E)">exportieren</button>
     <a class="btn" id="ghBtn" href="https://github.com/swoopyfpv/worldofpattern" target="_blank" rel="noopener">GitHub ↗</a>
   </div>
@@ -114,7 +114,7 @@ select{background:var(--chip);border:1px solid var(--line);border-radius:8px;pad
         <p><b>Anfang 2023</b> habe ich ein paar hundert nahtlose KI-Musterkacheln für einen Print-on-Demand-Shop namens worldofpattern erzeugt.</p>
         <p>Dann ließ das Interesse nach, und der Shop ging nie online. Seitdem lagen die Kacheln nur herum. Hier sind sie, frei zur Verwendung.</p>
         <div class="note-row">
-          <button class="btn primary" id="bannerClose">Mischen starten</button>
+          <button class="btn primary" id="bannerClose">Shuffle starten</button>
           <a class="btn" href="https://github.com/swoopyfpv/worldofpattern" id="ghBanner" target="_blank" rel="noopener">Code &amp; Kacheln auf GitHub ↗</a>
         </div>
       </div>
@@ -127,7 +127,7 @@ select{background:var(--chip);border:1px solid var(--line);border-radius:8px;pad
     </div>
   </div>
 </main>
-<div class="hint gut"><kbd>Leertaste</kbd> mischen · <kbd>B</kbd> zurück · <kbd>←</kbd><kbd>→</kbd> blättern · <kbd>+</kbd><kbd>−</kbd> Kachelgröße · <kbd>G</kbd> Nähte · <kbd>E</kbd> exportieren · <span id="source">Beispielsatz</span></div>
+<div class="hint gut"><kbd>Leertaste</kbd> shuffle · <kbd>B</kbd> zurück · <kbd>←</kbd><kbd>→</kbd> blättern · <kbd>+</kbd><kbd>−</kbd> Kachelgröße · <kbd>G</kbd> seam · <kbd>E</kbd> exportieren · <span id="source">Beispielsatz</span></div>
 
 <div class="overlay" id="exportDlg" hidden>
   <div class="dialog" role="dialog" aria-modal="true" aria-labelledby="exTitle">
@@ -164,8 +164,8 @@ const $=id=>document.getElementById(id);
 const logoImg=new Image(); logoImg.src=document.querySelector(".logo").src;
 
 document.querySelectorAll("#ghBtn,#ghBanner").forEach(a=>a.href=GITHUB_URL);
-try{ if(localStorage.getItem("wop-intro")==="hidden") $("banner").hidden=true }catch(e){}
-$("bannerClose").onclick=()=>{$("banner").hidden=true;try{localStorage.setItem("wop-intro","hidden")}catch(e){}};
+try{ if(sessionStorage.getItem("wop-intro")==="hidden") $("banner").hidden=true }catch(e){}
+$("bannerClose").onclick=()=>{$("banner").hidden=true;try{sessionStorage.setItem("wop-intro","hidden")}catch(e){}};
 
 /* German names for the folder names; unknown folders show as they are */
 const DE={birds:"Vögel",cats:"Katzen",dogs:"Hunde",hamsters:"Hamster",pixelart:"Pixelart",plants:"Pflanzen",
@@ -292,7 +292,7 @@ document.addEventListener("keydown",e=>{
 });
 
 function start(){
-  renderCats(); filter(); setSize(260);
+  renderCats(); filter(); setSize(400);
   go(Math.floor(Math.random()*view.length),{record:false});
 }
 start();
