@@ -5,6 +5,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="description" content="Nahtlose KI-Musterkacheln aus 2023, frei zur Verwendung. Shuffle, blättern, exportieren.">
 <link rel="icon" href="logo.png">
+<link rel="stylesheet" href="consent/vendor/cookieconsent.css">
+<link rel="stylesheet" href="consent/vendor/iframemanager.css">
+<link rel="stylesheet" href="consent/consent-theme.css">
 <style>html,body{margin:0}</style>
 <title>worldofpattern</title>
 <meta name="claude:viewport-fit-sides" content="cover">
@@ -84,7 +87,13 @@ select{background:var(--chip);border:1px solid var(--line);border-radius:8px;pad
 .caption b{font-family:var(--type);text-transform:none;letter-spacing:0;font-size:16px;font-weight:700;color:#2a2925;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;min-width:0}
 .caption .meta{white-space:nowrap;font-variant-numeric:tabular-nums}
 .empty{position:absolute;inset:0;display:grid;place-items:center;color:var(--muted);text-align:center;padding:16px}
-.hint{font-size:11px;color:var(--muted);padding-block:2px 16px}
+.foot{display:flex;flex-wrap:wrap;justify-content:space-between;align-items:baseline;gap:4px 16px;padding-block:2px 16px}
+.hint{font-size:11px;color:var(--muted);min-width:0}
+.legal-links{display:flex;gap:14px;margin-left:auto;font-size:11px}
+.legal-links a{color:var(--muted);text-decoration:none}
+.legal-links a:hover{color:var(--ink);text-decoration:underline}
+.legal-links .cc-link{background:none;border:0;padding:0;cursor:pointer;font:inherit;color:var(--muted)}
+.legal-links .cc-link:hover{color:var(--ink);text-decoration:underline}
 .hint kbd{border:1px solid var(--line);border-radius:4px;padding:0 5px;background:var(--chip);font-family:inherit}
 
 /* ---------- export dialog ---------- */
@@ -97,7 +106,8 @@ select{background:var(--chip);border:1px solid var(--line);border-radius:8px;pad
 
 .mbar{display:none;gap:6px;flex:none}
 @media (max-width:640px){
-  .hint{display:none}.caption .meta{font-size:11px}
+  .hint{display:none}
+  .foot{padding-block:0 10px}.caption .meta{font-size:11px}
   .bar{gap:8px;padding-block:8px}
   .logo{height:24px}
   .sel{flex:1 1 0;min-width:0;gap:0}
@@ -174,7 +184,7 @@ select{background:var(--chip);border:1px solid var(--line);border-radius:8px;pad
     </div>
   </div>
 </main>
-<div class="hint gut"><kbd>Leertaste</kbd> shuffle · <kbd>B</kbd> zurück · <kbd>←</kbd><kbd>→</kbd> blättern · <kbd>+</kbd><kbd>−</kbd> Kachelgröße · Ziehen verschiebt · Mausrad zoomt · Doppelklick zentriert · <kbd>G</kbd> seam · <kbd>E</kbd> exportieren · <kbd>S</kbd> suchen · <span id="source">Beispielsatz</span></div>
+<div class="foot gut"><div class="hint"><kbd>Leertaste</kbd> shuffle · <kbd>B</kbd> zurück · <kbd>←</kbd><kbd>→</kbd> blättern · <kbd>+</kbd><kbd>−</kbd> Kachelgröße · Ziehen verschiebt · Mausrad zoomt · Doppelklick zentriert · <kbd>G</kbd> seam · <kbd>E</kbd> exportieren · <kbd>S</kbd> suchen · <span id="source">Beispielsatz</span></div><nav class="legal-links" aria-label="Rechtliches"><a href="impressum.html">Impressum</a><a href="datenschutz.html">Datenschutz</a><button type="button" class="cc-link" data-cc="show-preferencesModal">Cookie-Einstellungen</button></nav></div>
 
 <div class="overlay" id="exportDlg" hidden>
   <div class="dialog" role="dialog" aria-modal="true" aria-labelledby="exTitle">
@@ -450,5 +460,8 @@ fetch(MANIFEST).then(r=>r.ok?r.json():Promise.reject()).then(m=>{
 }).catch(()=>{ $("source").textContent=`Beispielsatz, ${tiles.length} Kacheln` });
 </script>
 
+<script src="consent/vendor/cookieconsent.umd.js"></script>
+<script src="consent/vendor/iframemanager.js"></script>
+<script src="consent/consent-config.js"></script>
 </body>
 </html>

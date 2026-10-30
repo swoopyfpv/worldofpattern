@@ -13,3 +13,7 @@ In early 2023 I generated a few hundred seamless AI pattern tiles for a print-on
 - `tiles/manifest.json` – id, category, title, seam score and original prompt for each tile
 
 The seam score compares opposite edges of a tile: around 1 means it repeats cleanly, above 2 a seam may be visible. Tiles above 4 and near-duplicates are hidden in the viewer.
+
+## Rechtliches
+
+`impressum.html` und `datenschutz.html` stammen aus dem Consent-Kit (`swoopyfpv/consent-banner`, Module `legal/`). Der Ordner `consent/` ist das selbst gehostete Consent-Kit, konfiguriert nur mit der Kategorie „Essentiell“, da die Seite keine Drittanbieter lädt.

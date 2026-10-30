@@ -1,0 +1,67 @@
+/* Pixxwell Consent-Kit – Theme. Pro Projekt nur die Farben anpassen. */
+#cc-main {
+  --cc-font-family: inherit;
+  --cc-modal-border-radius: 10px;
+  --cc-btn-border-radius: 6px;
+
+  --cc-primary-color: #1b1b1f;
+  --cc-secondary-color: #55555e;
+  --cc-link-color: #1b1b1f;
+
+  /* "Alle akzeptieren" und "Nur essentielle" nutzen beide den Primary-Stil
+     (equalWeightButtons in der Config) → keine optische Bevorzugung */
+  --cc-btn-primary-bg: #1b1b1f;
+  --cc-btn-primary-color: #fff;
+  --cc-btn-primary-border-color: #1b1b1f;
+  --cc-btn-primary-hover-bg: #3a3a42;
+  --cc-btn-primary-hover-border-color: #3a3a42;
+
+  /* "Einstellungen" */
+  --cc-btn-secondary-bg: #f0f0f2;
+  --cc-btn-secondary-color: #1b1b1f;
+  --cc-btn-secondary-border-color: #f0f0f2;
+  --cc-btn-secondary-hover-bg: #e2e2e6;
+  --cc-btn-secondary-hover-border-color: #e2e2e6;
+
+  --cc-toggle-on-bg: #1b1b1f;
+}
+
+/* Platzhalter für externe Medien */
+div[data-service] {
+  --im-font-family: inherit;
+  --im-bg: #1b1b1f;
+  --im-btn-bg: #fff;
+  --im-btn-color: #1b1b1f;
+  --im-btn-hover-bg: #e2e2e6;
+  --im-btn-s-bg: #3a3a42;
+  --im-btn-s-color: #fff;
+  --im-btn-s-hover-bg: #55555e;
+  --im-link-color: #fff;
+}
+
+/* worldofpattern – Farben passend zur Matte des Viewers */
+#cc-main {
+  --cc-font-family: ui-monospace, "SF Mono", "Cascadia Mono", Menlo, Consolas, "DejaVu Sans Mono", monospace;
+  --cc-bg: #ecebe6;
+  --cc-primary-color: #2a2925;
+  --cc-secondary-color: #5b5a55;
+  --cc-link-color: #2a2925;
+  --cc-btn-primary-bg: #2a2925;
+  --cc-btn-primary-color: #ecebe6;
+  --cc-btn-primary-border-color: #2a2925;
+  --cc-btn-primary-hover-bg: #45433d;
+  --cc-btn-primary-hover-border-color: #45433d;
+  --cc-btn-secondary-bg: #dedbd1;
+  --cc-btn-secondary-color: #2a2925;
+  --cc-btn-secondary-border-color: #dedbd1;
+  --cc-btn-secondary-hover-bg: #d6d4cc;
+  --cc-btn-secondary-hover-border-color: #d6d4cc;
+  --cc-separator-border-color: #d6d4cc;
+  --cc-cookie-category-block-bg: #e3e1da;
+  --cc-cookie-category-block-border: #d6d4cc;
+  --cc-cookie-category-block-hover-bg: #dedbd1;
+  --cc-cookie-category-block-hover-border: #d6d4cc;
+  --cc-footer-bg: #e3e1da;
+  --cc-footer-border-color: #d6d4cc;
+  --cc-toggle-on-bg: #2a2925;
+}
